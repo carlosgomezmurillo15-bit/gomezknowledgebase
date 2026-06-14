@@ -1,5 +1,6 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: 5k race preparation
+About: This site provides a simple one week training plan designed to help runners improve their endurance, speed, and overall race performance while preparing for a successful 5K
 ---
 ## The index page
 

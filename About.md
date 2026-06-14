@@ -1,0 +1,1 @@
+My name is Carlos Gomez, and I am a student at Texas Tech University studying Computing Applications. I am also a member of the U.S. Army Reserve and enjoy running, fitness, and endurance training. This knowledge base focuses on 5K race preparation and training techniques that can help runners improve their performance.
