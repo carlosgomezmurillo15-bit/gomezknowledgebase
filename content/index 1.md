@@ -2,6 +2,15 @@
 title: 5k race preparation
 About: This site provides a simple one week training plan designed to help runners improve their endurance, speed, and overall race performance while preparing for a successful 5K
 ---
+## Main Categories
+
+- [[1.running-basics/index|Running Basics]]
+- [[2.weekly-training-plan/index|Weekly Training Plan]]
+- [[3.speed-workouts/index|Speed Workouts]]
+- [[4.strength-and-mobility/index|Strength and Mobility]]
+- [[5.recovery-and-injury-prevention/index|Recovery and Injury Prevention]]
+- [[6.nutrition-and-hydration/index|Nutrition and Hydration]]
+- [[7.race-day-strategy/index|Race Day Strategy]]
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
