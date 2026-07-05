@@ -4,13 +4,15 @@ About: This site provides a simple one week training plan designed to help runne
 ---
 ## Main Categories
 
-- [[1.running-basics/index|Running Basics]]
-- [[2.weekly-training-plan/index|Weekly Training Plan]]
-- [[3.speed-workouts/index|Speed Workouts]]
-- [[4.strength-and-mobility/index|Strength and Mobility]]
-- [[5.recovery-and-injury-prevention/index|Recovery and Injury Prevention]]
-- [[6.nutrition-and-hydration/index|Nutrition and Hydration]]
-- [[7.race-day-strategy/index|Race Day Strategy]]
+## Main Categories
+
+- [Running Basics](1.running-basics/)
+- [Weekly Training Plan](2.weekly-training-plan/)
+- [Speed Workouts](3.speed-workouts/)
+- [Strength and Mobility](4.strength-and-mobility/)
+- [Recovery and Injury Prevention](5.recovery-and-injury-prevention/)
+- [Nutrition and Hydration](6.nutrition-and-hydration/)
+- [Race Day Strategy](7.race-day-strategy/)
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
