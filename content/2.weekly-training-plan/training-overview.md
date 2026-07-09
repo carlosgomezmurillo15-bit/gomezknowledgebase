@@ -1,4 +1,4 @@
-# Training Overview
+\# Training Overview
 
 A weekly training plan is the foundation of preparing for a 5K race because it gives every workout a clear purpose and track progression. Instead of running randomly whenever there is free time, a plan helps organize easy runs, faster workouts, longer runs, and recovery days into one balanced schedule. This matters because a 5K is short enough to require speed, but long enough to demand endurance and consistency.
 
@@ -19,3 +19,19 @@ A complete weekly plan usually includes:
 5. Recovery days
 
 The [[weekly-training-plan/easy-run-days|easy run days]] help build the overall aerobic base,  [[speed-workouts|speed workouts]] help improve the maximum pace you will top. The [[long-run-day|long run day]] builds endurance, and [[rest-and-recovery|rest and recovery]] helps the body adapt to the training.
+
+## Embedded Training Resources
+
+The resources below support this weekly 5K training plan by providing both a visual example and an additional document connected to race preparation.
+
+### Weekly 5K Training Image
+
+This image represents the planning and preparation involved in getting ready for a 5K race.
+
+![[assets/weekly-5k-training-image.jpg]]
+
+### Weekly 5K Training PDF
+
+This PDF provides an additional resource that can help explain or support the weekly training process.
+
+![[assets/weekly-5k-training-resource.pdf]]
