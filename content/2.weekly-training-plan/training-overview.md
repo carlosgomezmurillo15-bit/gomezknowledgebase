@@ -28,10 +28,10 @@ The resources below support this weekly 5K training plan by providing both a vis
 
 This image represents the planning and preparation involved in getting ready for a 5K race.
 
-![[assets/weekly-5k-training-image.jpg]]
+![[weekly-5k-training-image.jpg]]
 
 ### Weekly 5K Training PDF
 
 This PDF provides an additional resource that can help explain or support the weekly training process.
 
-![[assets/weekly-5k-training-resource.pdf]]
+![[weekly-5k-training-resource.pdf]]
