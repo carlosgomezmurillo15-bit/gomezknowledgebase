@@ -1,96 +1,207 @@
 ---
 title: Weekly Training Plan
 ---
----
 
 # 📅 Weekly Training Plan
 
 Welcome to the **Weekly Training Plan** section of the 5K Race Preparation Knowledge Base.
 
-A successful 5K training plan is about more than simply running as hard as possible every day. A balanced week combines easier aerobic running, faster training, longer runs, and recovery so that each workout serves a specific purpose.
+A successful 5K training program usually includes several different types of workouts rather than repeating the same run every day.
 
-This section explains how those different training days work together. The goal is to build endurance and speed while still giving the body enough time to recover and adapt.
+Easy runs help build aerobic fitness, speed workouts introduce faster training, long runs develop endurance, and recovery allows the body to adapt between demanding sessions.
 
-> A strong training week balances challenging workouts with enough easy running and recovery to remain consistent.
+> A good weekly training plan balances stress and recovery instead of making every workout equally difficult.
 
 ---
 
 ## 📚 Pages in This Section
 
-### 🗓️ [[training-overview|Training Overview]]
+### 🗓️ [[2.weekly-training-plan/training-overview|Training Overview]]
 
-See how the major parts of a 5K training week fit together and learn how different workouts can be organized into a balanced schedule.
+Start here for an overview of how different types of running workouts can fit together within a balanced 5K training week.
 
-### 👟 [[easy-run-days|Easy Run Days]]
+### 🟢 [[2.weekly-training-plan/easy-run-days|Easy Run Days]]
 
-Learn why easier running makes up an important part of 5K preparation and how controlled aerobic training supports endurance and recovery.
+Learn why comfortable running is an important part of developing endurance, accumulating training volume, and recovering between harder sessions.
 
-### ⚡ [[speed-workouts|Speed Workouts]]
+### ⚡ [[2.weekly-training-plan/speed-workouts|Speed Workouts]]
 
-Explore how faster running can be included in the weekly schedule without allowing high-intensity training to dominate the entire program.
+Explore how faster running can be incorporated into the weekly schedule without turning every training day into a maximum-effort workout.
 
-### 🏃 [[long-run-day|Long Run Day]]
+### 🏃 [[2.weekly-training-plan/long-run-day|Long Run Day]]
 
-Learn how a longer weekly run can develop aerobic endurance, confidence, and the ability to stay active for longer periods.
+Learn how a longer controlled run can help develop aerobic endurance, confidence, and the ability to continue running as fatigue increases.
 
-### 🔋 [[rest-and-recovery|Rest and Recovery]]
+### 😴 [[2.weekly-training-plan/rest-and-recovery|Rest and Recovery]]
 
-Understand why rest and easier training days are an essential part of improving fitness and maintaining consistency.
+Understand why recovery days are part of the training process and how proper rest can support consistency throughout a 5K training program.
 
 ---
 
-## 🧩 How the Week Fits Together
+## 🧭 Recommended Learning Path
 
-|Training Type|Main Purpose|
+A useful order for exploring this section is:
+
+1. [[2.weekly-training-plan/training-overview|Training Overview]]
+2. [[2.weekly-training-plan/easy-run-days|Easy Run Days]]
+3. [[2.weekly-training-plan/speed-workouts|Speed Workouts]]
+4. [[2.weekly-training-plan/long-run-day|Long Run Day]]
+5. [[2.weekly-training-plan/rest-and-recovery|Rest and Recovery]]
+
+Together, these pages explain how different workouts can be combined throughout a training week.
+
+---
+
+## 🗓️ Example Weekly Structure
+
+A simple 5K training week might include a combination of:
+
+| Day | Training Focus |
 |---|---|
-|Easy Runs|Build aerobic fitness with manageable fatigue|
-|Speed Work|Develop faster running ability and pacing|
-|Long Run|Improve endurance and confidence|
-|Rest and Recovery|Allow the body to recover between demanding sessions|
+| Monday | Rest or recovery |
+| Tuesday | Easy run |
+| Wednesday | Speed workout |
+| Thursday | Easy run or recovery |
+| Friday | Rest or strength training |
+| Saturday | Long run |
+| Sunday | Easy run or recovery |
 
-The exact schedule will vary depending on the runner's experience and availability. A beginner may need more recovery, while a more experienced runner may be able to handle a larger training volume.
+This is only an example.
 
-What matters most is that every training day does not become a hard day.
+The exact schedule should depend on the runner's experience, current fitness, available training time, and ability to recover.
+
+The [[2.weekly-training-plan/training-overview|Training Overview]] explains how these different sessions can be adjusted based on individual needs.
 
 ---
 
-## 🔄 A Balanced Training Approach
+## 🟢 Easy Days Build the Foundation
 
-A typical training week might include:
+Easy running should make up an important part of a balanced training program.
 
-1. Multiple easy aerobic runs
-    
-2. One focused speed workout
-    
-3. One longer run
-    
-4. Strength or mobility work when appropriate
-    
-5. At least one recovery-focused day
-    
+These runs allow runners to develop aerobic fitness without creating the same amount of fatigue as faster workouts.
 
-The harder sessions provide an important training stimulus, but the easier days help make those workouts sustainable.
+Easy sessions can also provide opportunities to practice:
 
-This balance becomes especially important when adding more demanding training from the [[3.speed-workouts/index|Speed Workouts]] section.
+- Relaxed running form
+- Controlled breathing
+- Consistent pacing
+- Comfortable movement
+
+Review [[1.running-basics/proper-running-form|Proper Running Form]] and [[1.running-basics/understanding-running-pace|Understanding Running Pace]] for more information about these fundamentals.
+
+Then visit [[2.weekly-training-plan/easy-run-days|Easy Run Days]] to learn how easy running fits into the weekly schedule.
+
+---
+
+## ⚡ Hard Days Should Have a Purpose
+
+Faster training can help runners improve their ability to run at higher intensities.
+
+However, hard workouts should be planned strategically.
+
+Running hard every day may create excessive fatigue and make it difficult to recover.
+
+A weekly plan may include a dedicated faster session, such as the workout described in [[2.weekly-training-plan/speed-workouts|Speed Workouts]].
+
+Runners who want to explore specific types of faster training can also visit:
+
+- [[3.speed-workouts/interval-training|Interval Training]]
+- [[3.speed-workouts/tempo-runs|Tempo Runs]]
+- [[3.speed-workouts/hill-repeats|Hill Repeats]]
+
+These workouts should complement easy aerobic training rather than completely replace it.
+
+---
+
+## 🏃 The Long Run
+
+The long run extends the amount of time a runner spends moving continuously.
+
+For a 5K runner, the long run can help build confidence and aerobic endurance.
+
+The goal is generally not to complete the long run as quickly as possible.
+
+Instead, runners should focus on maintaining a controlled effort.
+
+Learn more in [[2.weekly-training-plan/long-run-day|Long Run Day]].
+
+The endurance developed through longer aerobic running also connects directly to [[1.running-basics/building-aerobic-endurance|Building Aerobic Endurance]].
+
+---
+
+## 😴 Recovery Is Part of Training
+
+Improvement does not happen only during workouts.
+
+The body also needs time to recover from training stress.
+
+Recovery may include:
+
+- Rest days
+- Easy training days
+- Adequate sleep
+- Proper nutrition
+- Hydration
+- Reduced training when fatigue becomes excessive
+
+Learn more about scheduling recovery in [[2.weekly-training-plan/rest-and-recovery|Rest and Recovery]].
+
+For additional information, visit the [[5.recovery-and-injury-prevention/index|Recovery and Injury Prevention]] section.
+
+---
+
+## 🔄 Balancing the Training Week
+
+The different parts of a weekly training plan should work together.
+
+A simple way to think about the process is:
+
+**Easy Running → Faster Training → Recovery → Long Run → Recovery → Repeat**
+
+The exact order may change depending on the runner.
+
+The important principle is to avoid placing too many difficult workouts together without enough recovery.
+
+A balanced weekly schedule allows runners to develop:
+
+- Aerobic endurance
+- Speed
+- Running efficiency
+- Confidence
+- Training consistency
+
+---
+
+## 📈 Progressing the Training Plan
+
+As fitness improves, runners may gradually adjust their training.
+
+Progression may include:
+
+- Slightly longer easy runs
+- A longer weekly long run
+- Additional interval repetitions
+- Longer tempo efforts
+- More consistent weekly running
+
+Changes should generally be introduced gradually.
+
+Trying to increase distance, speed, and frequency all at once may make recovery more difficult.
+
+The goal is to develop a training schedule that can be repeated consistently over time.
 
 ---
 
 ## 🔗 Related Categories
 
-The weekly training plan connects back to [[1.running-basics/index|Running Basics]] because each workout builds on basic running skills such as pacing, consistency, endurance, and proper preparation for a 5K race.
+Before following a structured weekly plan, review [[1.running-basics/index|Running Basics]] for information about form, pacing, and endurance.
 
-Training also connects closely to [[5.recovery-and-injury-prevention/index|Recovery and Injury Prevention]] because the body needs enough recovery between difficult sessions to continue training consistently.
+For more detailed faster workouts, continue to [[3.speed-workouts/index|Speed Workouts]].
 
-Runners can also explore [[4.strength-and-mobility/index|Strength and Mobility]] to learn how supplemental exercises can fit around the weekly running schedule.
+Runners can also supplement their weekly schedule with [[4.strength-and-mobility/index|Strength and Mobility]].
 
----
+Recovery habits are discussed in [[5.recovery-and-injury-prevention/index|Recovery and Injury Prevention]], while fueling and hydration are covered in [[6.nutrition-and-hydration/index|Nutrition and Hydration]].
 
-## 🧭 Where to Go Next
-
-Newer runners may want to begin with the [[training-overview|Training Overview]] and then explore [[easy-run-days|Easy Run Days]].
-
-Runners who already have an aerobic foundation may want to learn more about [[speed-workouts|Speed Workouts]] and how faster training fits into the week.
+All of these training components eventually support the strategies discussed in [[7.race-day-strategy/index|Race Day Strategy]].
 
 ---
-
-[← Return to the 5K Race Preparation Homepage](https://chatgpt.com/)

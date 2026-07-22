@@ -1,102 +1,164 @@
 ---
-## Choosing the Right Interval Intensity
+title: Interval Training
+---
 
-One of the most important parts of interval training is selecting an appropriate intensity. A common mistake is treating every interval like an all-out sprint. While the repetitions should feel challenging, most interval workouts designed for 5K preparation should still be controlled.
+# 🔁 Interval Training
 
-The runner should ideally be able to complete the final repetition at approximately the same quality as the first few repetitions. If the runner begins extremely fast but slows dramatically during every following interval, the opening repetitions may have been too aggressive.
+Interval training is a type of speed workout that alternates faster running with periods of recovery.
 
-A useful goal is **consistency across repetitions**.
+Instead of trying to maintain one hard pace for an entire run, runners complete shorter repetitions at a faster effort and then recover before beginning the next repetition.
 
-For example, if a runner completes six 400-meter repetitions, the objective should not be to make the first repetition dramatically faster than the others. Instead, the runner can attempt to maintain a relatively consistent effort throughout the workout.
+> Intervals help runners practice faster speeds while keeping the workout structured and controlled.
 
-This approach also connects to [[1.running-basics/understanding-running-pace|Understanding Running Pace]]. Learning how different effort levels feel during training can help runners develop better pacing awareness when preparing for competition.
+---
 
-## Short vs. Long Intervals
+## 🧠 How Interval Training Works
 
-Not every interval workout has to use the same distance. Different interval lengths can create different challenges for the runner.
+A basic interval workout may include:
 
-### Short Intervals
+1. Warm-up
+2. Faster running repetition
+3. Recovery period
+4. Repeat several times
+5. Cool-down
 
-Shorter repetitions may include distances such as 200 or 400 meters. These intervals allow runners to practice faster running while keeping each individual effort relatively brief.
+The faster portions can be based on either time or distance.
 
-An example might include:
+Examples include:
 
-- 6 × 200 meters with easy recovery
-- 6 × 400 meters with jogging recovery
-- 8 × 400 meters for a more experienced runner
+- 6 × 400 meters
+- 5 × 2 minutes
+- 4 × 800 meters
+- Short hill or track repetitions
 
-Short intervals can be especially useful for practicing faster movement while maintaining [[1.running-basics/proper-running-form|Proper Running Form]].
+The exact workout depends on the runner's experience and fitness level.
 
-### Longer Intervals
+---
 
-Longer repetitions may include distances such as 800 meters or 1,000 meters. Because the runner must sustain the effort for a longer period, these workouts can feel more demanding even when the pace is slightly slower than during shorter intervals.
+## ⚡ Why Intervals Matter
 
-Examples might include:
+Interval workouts can help runners improve:
 
-- 4 × 800 meters with recovery
-- 3 × 1,000 meters with recovery
-- 3 × 800 meters followed by shorter repetitions
+- Faster running ability
+- Confidence at higher speeds
+- Pace control
+- Ability to repeat hard efforts
+- Preparation for 5K race pace
 
-The appropriate workout depends on the runner's experience and current training level. A beginner does not need to immediately perform the same volume or intensity as an experienced competitive runner.
+These sessions are especially useful when combined with a strong aerobic foundation.
 
-## Progressing Interval Training Over Time
+Review [[1.running-basics/building-aerobic-endurance|Building Aerobic Endurance]] to understand why endurance still matters during speed training.
 
-Interval workouts can gradually become more challenging as a runner develops greater fitness. However, progression does not always mean running every repetition faster.
+---
 
-A runner can progress interval training by:
+## ⏱️ Keep the Pace Controlled
 
-1. Adding a small number of repetitions.
-2. Gradually increasing the distance of each interval.
-3. Slightly reducing recovery time.
-4. Improving consistency between repetitions.
-5. Running the same workout with better control.
+Intervals should be challenging, but they do not need to be all-out sprints.
 
-Only one or two variables need to change at a time. Increasing the speed, distance, number of repetitions, and reducing recovery simultaneously can create a dramatic increase in training stress.
+Runners should choose a pace that allows them to complete all planned repetitions with reasonably consistent effort.
 
-> Progression should make training gradually more challenging without turning every workout into a test of maximum effort.
+If the first repetition is extremely fast but the remaining repetitions become much slower, the starting pace may have been too aggressive.
 
-Keeping a simple training record can help runners compare workouts over time. A runner who completes the same interval session with more consistent pacing or less perceived effort may be improving even if the workout itself has not changed dramatically.
+Understanding [[1.running-basics/understanding-running-pace|Running Pace]] can help runners manage interval intensity.
 
-## Common Interval Training Mistakes
+---
 
-Interval training can be extremely useful, but several common mistakes can reduce its effectiveness.
+## 🔄 Recovery Between Repetitions
 
-### Starting Too Fast
+Recovery is what allows interval training to include repeated faster efforts.
 
-The first repetition often feels easier because the runner is fresh. Starting significantly faster than planned can cause later repetitions to become slower and less controlled.
+Recovery may involve:
 
-### Turning Every Interval Into a Sprint
+- Walking
+- Easy jogging
+- Standing rest
+- A set amount of time
 
-Intervals are not automatically maximum-effort sprints. The appropriate intensity depends on the purpose and length of the workout.
+The recovery period should be long enough for the runner to regain some control before the next repetition.
 
-### Skipping the Warm-Up
+The goal is not to become completely rested, but to recover enough to maintain good quality during the workout.
 
-Beginning fast running without an appropriate warm-up may make the opening repetitions feel uncomfortable. Easy running before the workout gives the runner time to gradually transition into faster movement.
+---
 
-### Doing Too Much Speed Work
+## 📅 Where Intervals Fit in the Week
 
-Because speed sessions can create substantial fatigue, adding more high-intensity training does not automatically produce faster improvement. Too many difficult sessions may interfere with [[2.weekly-training-plan/long-run-day|Long Run Day]] performance, easy running, strength training, and overall recovery.
+Interval training is usually treated as one of the harder workouts of the week.
 
-### Ignoring Pain
+A runner may schedule it between easier training days.
 
-Muscle fatigue during a difficult workout is expected, but persistent or unusual pain should not simply be ignored. Runners should be willing to modify or stop a workout when necessary rather than forcing themselves to complete a predetermined number of repetitions.
+For example:
 
-## How Interval Training Supports the 5K
+**Easy Run**
 
-The 5K presents an interesting challenge because it requires both endurance and speed. A runner needs enough aerobic fitness to continuously cover 3.1 miles, but achieving a faster finishing time also requires the ability to maintain a challenging pace.
+⬇️
 
-Interval training helps bridge the gap between basic aerobic running and race-specific performance. During an interval workout, a runner experiences the physical and mental demands of faster running in smaller, manageable segments.
+**Interval Workout**
 
-Over time, this can help the runner become more comfortable with:
+⬇️
 
-- Faster leg turnover
-- Increased breathing demands
-- Maintaining form while fatigued
-- Controlling pace during difficult efforts
-- Recovering after periods of intense running
+**Easy Run or Recovery**
 
-These skills can become valuable when following a [[7.race-day-strategy/race-day-pacing|Race Day Pacing]] strategy. Instead of experiencing faster running for the first time during competition, the runner has already practiced responding to demanding efforts during training.
+This helps prevent too many demanding workouts from being placed together.
 
-Interval training should therefore be viewed as one piece of a larger training system. Aerobic development provides the foundation, speed workouts introduce higher-intensity training, strength and mobility support physical preparation, and recovery allows the body to adapt.
+Review [[2.weekly-training-plan/speed-workouts|Speed Workouts]] to see how interval sessions fit into a weekly training schedule.
 
-When these components are organized effectively within a [[2.weekly-training-plan/index|Weekly Training Plan]], interval training can contribute to improved 5K performance without dominating the entire training program.
+---
+
+## 📈 Progress Gradually
+
+Interval training can gradually become more challenging over time.
+
+Progression may include:
+
+- Adding another repetition
+- Increasing repetition distance
+- Increasing running time
+- Slightly improving pace
+- Adjusting recovery periods
+
+Runners should avoid increasing every part of the workout at once.
+
+Small changes can help maintain consistency and reduce unnecessary fatigue.
+
+---
+
+## 👟 Maintain Good Form
+
+Running form can become more difficult to maintain as speed increases.
+
+During interval workouts, runners should focus on:
+
+- Relaxed shoulders
+- Controlled arm movement
+- Comfortable stride length
+- Smooth acceleration
+- Avoiding excessive tension
+
+Review [[1.running-basics/proper-running-form|Proper Running Form]] for additional guidance.
+
+---
+
+## 🏁 Intervals and 5K Preparation
+
+Intervals help runners become familiar with faster efforts that may support 5K performance.
+
+They can also improve confidence before race day by allowing runners to practice controlled hard running during training.
+
+Interval workouts work best when combined with:
+
+- [[3.speed-workouts/tempo-runs|Tempo Runs]]
+- [[3.speed-workouts/hill-repeats|Hill Repeats]]
+- [[2.weekly-training-plan/easy-run-days|Easy Run Days]]
+- [[2.weekly-training-plan/rest-and-recovery|Rest and Recovery]]
+
+Together, these workouts create a more balanced approach to 5K preparation.
+
+---
+
+## 🔗 Related Pages
+
+Continue to [[3.speed-workouts/tempo-runs|Tempo Runs]] to learn about longer sustained efforts.
+
+Explore [[3.speed-workouts/hill-repeats|Hill Repeats]] for another form of faster training.
+
+Return to the [[3.speed-workouts/index|Speed Workouts]] section to review all three workout types.

@@ -1,158 +1,176 @@
 ---
+title: Common Running Injuries
+date: 2026-07-22
+---
 
-# Common Running Injuries
+# ⚠️ Common Running Injuries
 
-Running is a repetitive activity that places stress on the muscles, tendons, joints, and bones of the lower body. Many runners can train consistently without major problems, but discomfort or injury can still occur when training stress becomes greater than the body can currently tolerate.
+Running places repeated stress on the legs and feet, especially when training volume or intensity increases.
 
-This page is intended for general educational purposes and is not meant to diagnose an injury. Runners experiencing significant or persistent pain should seek appropriate medical evaluation.
+Some soreness after training can be normal, but persistent or worsening pain should not simply be ignored. Learning to recognize common problem areas can help runners make better decisions about training and recovery.
 
-## Common Areas of Running-Related Pain
+> Injury prevention begins with gradual progression, recovery, and paying attention to changes in how the body feels.
 
-Running-related problems often affect the lower body.
+---
 
-Common areas include:
+## 🦴 Shin Splints
 
-- Knees
-    
-- Shins
-    
-- Ankles
-    
-- Feet
-    
-- Achilles tendon
-    
-- Calves
-    
-- Hamstrings
-    
-- Hips
-    
+Shin splints generally involve pain along the shin and are commonly associated with repetitive running activity.
 
-The location of pain alone does not always identify the exact cause, which is why runners should avoid trying to diagnose every problem by themselves.
+Runners may notice shin discomfort after suddenly increasing:
 
-## Shin Pain and Shin Splints
+- Weekly mileage
+- Running frequency
+- Speed workouts
+- Hill training
+- Overall training intensity
 
-Shin splints are commonly associated with pain along the inner edge of the shinbone. They can occur when the muscles and tissues around the shin become overworked through repetitive activity.
+When shin pain begins appearing consistently, runners may need to reduce training stress and allow additional recovery.
 
-Sudden changes in training can contribute to this type of problem. Examples include:
+Gradual progression is an important part of avoiding sudden increases in workload.
 
-- Increasing the number of running days
-    
-- Increasing distance quickly
-    
-- Adding more intense workouts
-    
-- Beginning hill training
-    
-- Returning to running after a long break
-    
+Review [[2.weekly-training-plan/training-overview|Training Overview]] for information about balancing different workouts.
 
-This is one reason why gradual progression is important in a [[2.weekly-training-plan/index|Weekly Training Plan]].
+---
 
-## Knee Pain
+## 🦵 Knee Pain
 
-Knee pain is another common complaint among runners. One example is patellofemoral pain, sometimes referred to as runner's knee, which involves pain around or behind the kneecap.
+Runners may also experience discomfort around the front of the knee or kneecap.
 
-Knee discomfort can have many possible causes, so runners should be careful about assuming that all knee pain is the same.
+Running volume, hills, strength, movement patterns, and recovery can all influence how the knees respond to training.
 
-A runner experiencing pain that becomes worse over time, changes normal running form, or interferes with normal daily movement should consider reducing training and seeking professional guidance.
+General strength exercises that may support lower-body control include:
 
-## Achilles and Calf Problems
+- Step-ups: 2 sets of 8 to 12 per leg
+- Glute bridges: 2 sets of 12 to 15
+- Bodyweight squats: 2 sets of 10 to 15
+- Controlled reverse lunges: 2 sets of 8 per leg
 
-The Achilles tendon connects the calf muscles to the heel and experiences repeated loading during running.
+These are general strength examples rather than treatments for an existing injury.
 
-Sudden increases in speed work, hills, or overall training can increase stress on the lower legs.
+Visit [[4.strength-and-mobility/strength-training-for-runners|Strength Training for Runners]] for more information.
 
-This is particularly relevant when completing [[3.speed-workouts/hill-repeats|Hill Repeats]] or other demanding workouts.
+---
 
-Runners should pay attention to persistent stiffness, swelling, or pain that continues instead of improving.
+## 🦶 Achilles and Calf Problems
 
-## Stress Injuries
+The Achilles tendon connects the calf area to the heel and experiences repeated loading during running.
 
-Stress fractures are small cracks in bone that can occur from repetitive overuse. They are different from normal muscle soreness and should not be ignored.
+Runners should pay attention to increasing pain or stiffness around the back of the ankle or heel.
 
-A runner experiencing localized bone pain that worsens with activity may require medical evaluation.
+A basic lower-leg strengthening routine for healthy runners might include:
 
-> Pain that becomes more focused, persistent, or severe deserves more attention than general post-workout fatigue.
+1. Standing calf raises — 2 sets of 12 to 15
+2. Bent-knee calf raises — 2 sets of 12
+3. Tibialis raises — 2 sets of 15
+4. Single-leg balance — 2 rounds of 30 seconds per leg
 
-Trying to continue high-impact training through a possible stress injury can make the problem worse.
+These exercises should be performed with controlled movement.
 
-## Training Changes and Injury Risk
+A runner already experiencing significant Achilles pain should avoid assuming that a general exercise routine is the correct treatment and should consider professional evaluation.
 
-One useful question when pain develops is:
+---
 
-**What changed recently?**
+## 👣 Heel and Foot Pain
 
-A runner can review whether they recently changed:
+Running can also create discomfort around the heel or bottom of the foot.
 
-1. Weekly mileage
-    
-2. Running frequency
-    
-3. Speed-workout volume
-    
-4. Hill training
-    
-5. Strength training
-    
-6. Running surface
-    
-7. Footwear
-    
-8. Recovery habits
-    
+Runners should pay attention to symptoms that repeatedly return or become worse with continued training.
 
-This does not mean that every injury has one obvious cause, but reviewing recent changes can help identify whether training stress increased too quickly.
+General habits that may help reduce unnecessary training stress include:
 
-## Normal Soreness vs. Warning Signs
+- Increasing mileage gradually
+- Wearing comfortable running shoes
+- Allowing recovery between difficult workouts
+- Strengthening the feet and calves
+- Avoiding sudden increases in hill or speed training
 
-Some soreness after training can be normal, especially after a new workout.
+Mobility work for the calves and ankles may also be included as part of a normal training routine.
 
-However, warning signs may include:
+Visit [[4.strength-and-mobility/mobility-and-flexibility|Mobility and Flexibility]] for additional examples.
 
-- Sharp or severe pain
-    
-- Swelling
-    
-- Pain that changes running mechanics
-    
-- Pain that continues getting worse
-    
-- Difficulty walking normally
-    
-- Pain that remains during several workouts
-    
-- Pain that does not improve with rest
-    
+---
 
-Runners should not assume that continuing to train through pain is always the toughest or most productive choice.
+## 📈 Avoid Sudden Training Increases
 
-> Sometimes the smartest training decision is to stop early, recover, and prevent a small problem from becoming a major interruption.
+One of the most practical injury-prevention strategies is gradually progressing training.
 
-## Reducing Injury Risk
+Instead of increasing everything at once, runners can change one variable at a time.
 
-No single exercise can guarantee that a runner will never become injured.
+For example:
 
-A more complete approach includes:
+**Week 1:** Maintain normal mileage
 
-- Gradually increasing training
-    
-- Balancing hard workouts with easier days
-    
-- Using appropriate [[2.weekly-training-plan/rest-and-recovery|Rest and Recovery]]
-    
-- Including [[4.strength-and-mobility/strength-training-for-runners|Strength Training for Runners]]
-    
-- Paying attention to unusual pain
-    
-- Getting enough sleep
-    
-- Maintaining regular nutrition and hydration
-    
+**Week 2:** Slightly increase one easy run
 
-The goal is not to avoid all physical stress. Training requires stress in order for improvement to occur. The goal is to apply that stress in a way that the body has a reasonable chance to recover from.
+**Week 3:** Maintain the new distance
 
-Consistent recovery habits are explained further in [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]].
+**Week 4:** Add a small amount to the long run
 
-The next page, [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]], explains another major factor that can influence how well a runner recovers between workouts.
+This approach gives the body more time to adjust than suddenly increasing distance, speed, and training frequency during the same week.
+
+---
+
+## 💪 Example Injury-Prevention Routine
+
+A simple supplemental routine might be completed 2 times per week:
+
+| Exercise | Sets | Reps |
+|---|---:|---:|
+| Bodyweight Squat | 2 | 10–15 |
+| Reverse Lunge | 2 | 8 each leg |
+| Glute Bridge | 2 | 12–15 |
+| Standing Calf Raise | 2 | 12–15 |
+| Tibialis Raise | 2 | 15 |
+| Single-Leg Balance | 2 | 30 sec each |
+
+The goal is controlled movement rather than maximum fatigue.
+
+This routine can be adjusted based on experience and may fit alongside the exercises in [[4.strength-and-mobility/index|Strength and Mobility]].
+
+---
+
+## 🛑 Know When to Stop
+
+Runners should take persistent pain seriously.
+
+Consider stopping or reducing training when pain:
+
+- Becomes progressively worse
+- Changes normal running form
+- Causes significant swelling
+- Continues during normal daily activities
+- Does not improve with appropriate rest
+- Prevents normal weight-bearing or movement
+
+Sudden severe pain or a significant injury should be evaluated by an appropriate healthcare professional.
+
+Trying to train through every type of pain can turn a manageable problem into a longer interruption in training.
+
+---
+
+## 🔄 Prevention Through Recovery
+
+Recovery habits can also support consistent training.
+
+A simple post-workout routine might include:
+
+1. Walk easily for 5 minutes.
+2. Rehydrate after the run.
+3. Eat a balanced meal or snack.
+4. Complete 5 to 10 minutes of gentle mobility if desired.
+5. Prioritize sleep before the next training session.
+
+Learn more in [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]].
+
+---
+
+## 🔗 Related Pages
+
+Continue to [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]].
+
+Review [[2.weekly-training-plan/rest-and-recovery|Rest and Recovery]] for information about managing training fatigue.
+
+Visit [[4.strength-and-mobility/strength-training-for-runners|Strength Training for Runners]] for supplemental strength exercises.
+
+Return to the [[5.recovery-and-injury-prevention/index|Recovery and Injury Prevention]] section.

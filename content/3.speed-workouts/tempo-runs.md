@@ -1,121 +1,137 @@
 ---
+title: Tempo Runs
+---
 
+# ⏱️ Tempo Runs
 
-# Tempo Runs for 5K Preparation
+Tempo runs are sustained efforts completed at a challenging but controlled pace.
 
-Tempo runs are workouts that involve running at a sustained, challenging effort for longer periods than the faster repetitions used in [[3.speed-workouts/interval-training|Interval Training]]. For runners preparing for a 5K, tempo training can help develop the ability to maintain a strong pace while staying controlled.
+Unlike interval training, tempo runs involve running continuously for a longer period without frequent recovery breaks. The goal is to practice holding a faster pace while staying in control.
 
-Unlike intervals, where recovery periods repeatedly break up the faster running, tempo workouts require the runner to hold a harder effort for a longer period. This makes tempo running useful for improving pacing discipline and becoming more comfortable with sustained effort.
+> A tempo run should feel difficult, but not like an all-out race effort.
 
-## Understanding Tempo Effort
+---
 
-Tempo running is often described as **comfortably hard**. The effort should be noticeably more difficult than an [[2.weekly-training-plan/easy-run-days|Easy Run Day]], but it should not feel like an all-out sprint.
+## 🧠 How Tempo Runs Work
 
-During an easy run, a runner may be able to speak in complete sentences. During a tempo effort, conversation becomes more difficult and may be limited to only a few words at a time.
+A basic tempo workout may include:
 
-> A tempo run should challenge the runner without turning into an all-out race effort.
+1. Easy warm-up
+2. Continuous tempo effort
+3. Easy cool-down
 
-Learning to recognize this level of effort connects directly to [[1.running-basics/understanding-running-pace|Understanding Running Pace]].
+For example:
 
-## Basic Tempo Run Structure
+- 10-minute warm-up
+- 15 to 20 minutes at tempo effort
+- 10-minute cool-down
 
-A tempo workout usually includes an easy warm-up, the tempo portion, and an easy cool-down.
+Beginners may start with shorter tempo sections and gradually increase the duration over time.
 
-A simple example might include:
+---
 
-1. Run easily for 10 to 15 minutes.
-    
-2. Run at a controlled tempo effort for 10 to 20 minutes.
-    
-3. Finish with 10 minutes of easy running.
-    
+## ⚡ Why Tempo Runs Matter
 
-A newer runner can begin with a shorter tempo period and gradually increase the duration as fitness improves.
+Tempo runs can help runners improve:
 
-### Continuous and Broken Tempo Runs
+- Ability to maintain faster efforts
+- Pace control
+- Confidence during sustained running
+- Mental focus
+- Preparation for 5K race intensity
 
-Tempo workouts can be completed continuously or divided into sections.
+These workouts help bridge the gap between easier aerobic running and shorter, faster interval sessions.
 
-A continuous tempo might look like:
+---
 
-- 10 minutes easy
-    
-- 15 minutes at tempo effort
-    
-- 10 minutes easy
-    
+## ⏱️ Finding the Right Effort
 
-A broken tempo could include:
+Tempo pace should feel challenging but sustainable.
 
-- 10 minutes easy
-    
-- 8 minutes at tempo effort
-    
-- 2 minutes easy
-    
-- 8 minutes at tempo effort
-    
-- 10 minutes easy
-    
+During the tempo portion:
 
-Broken tempo runs can help developing runners practice sustained faster running without having to complete the entire effort continuously.
+- Breathing should be noticeably harder
+- Conversation becomes difficult
+- The runner should still feel in control
+- The pace should remain relatively consistent
 
-## Why Tempo Runs Matter for a 5K
+Starting too fast can make it difficult to complete the full workout.
 
-A 5K requires both aerobic endurance and the ability to maintain a challenging pace. Tempo runs help connect the easier aerobic work developed through [[1.running-basics/building-aerobic-endurance|Building Aerobic Endurance]] with the faster efforts practiced during interval training.
+Review [[1.running-basics/understanding-running-pace|Understanding Running Pace]] for more information about controlling effort.
 
-Tempo workouts can help develop:
+---
 
-- Pacing discipline
-    
-- Confidence at faster efforts
-    
-- Ability to maintain rhythm
-    
-- Mental focus during discomfort
-    
-- Familiarity with increased breathing demands
-    
+## 📅 Where Tempo Runs Fit
 
-These skills can be useful during [[7.race-day-strategy/race-day-pacing|Race Day Pacing]], especially when the runner must stay controlled during the middle portion of the race.
+Tempo runs are usually considered a harder training session.
 
-## Keeping Tempo Workouts Limited
+They should be separated from other demanding workouts by easier training or recovery.
 
-Tempo runs are valuable, but they also create more fatigue than normal easy running. Because of this, faster workouts should generally make up a smaller portion of the overall training week.
+A simple example might be:
 
-A runner who completes too many hard sessions may struggle to recover enough to perform well during future workouts.
+**Easy Run**
 
-For some runners, a balanced week might include:
+⬇️
 
-- Several easy runs
-    
-- One speed or interval session
-    
-- One tempo session when appropriate
-    
-- One longer aerobic run
-    
-- Rest and recovery
-    
+**Tempo Run**
 
-Newer runners may not need both intervals and tempo runs every week. They may alternate between the two while continuing to build general endurance.
+⬇️
 
-> Hard workouts are most useful when they are balanced with enough easy training and recovery.
+**Easy Run or Recovery**
 
-## Common Tempo Run Mistakes
+This allows the runner to complete the tempo session with better quality.
 
-One common mistake is starting too fast. The beginning of a tempo run may feel easier because the runner is fresh, but an overly aggressive pace can make the final portion difficult to maintain.
+Review [[2.weekly-training-plan/speed-workouts|Speed Workouts]] to see how faster sessions fit into the weekly plan.
 
-Another mistake is turning every tempo run into a race. The goal is to complete a controlled workout, not attempt to set a personal record every week.
+---
 
-Runners should also avoid scheduling too many demanding workouts close together. Tempo training needs to fit within the larger [[2.weekly-training-plan/index|Weekly Training Plan]].
+## 📈 Progress Gradually
 
-## Tempo Runs and Race Confidence
+Tempo training can become more challenging as fitness improves.
 
-Tempo training can also improve confidence. During a 5K, runners will eventually reach a point where the pace feels difficult. Practicing controlled, sustained efforts helps runners become more familiar with this discomfort.
+Progression may include:
 
-Instead of immediately slowing down, the runner can focus on breathing, maintaining [[1.running-basics/proper-running-form|Proper Running Form]], and staying mentally engaged.
+- Extending the tempo duration
+- Adding another short tempo section
+- Slightly improving pace
+- Maintaining the same pace with less fatigue
 
-Tempo runs are only one part of a complete training program. They work best when combined with easy running, interval training, and proper [[2.weekly-training-plan/rest-and-recovery|Rest and Recovery]].
+The goal is gradual improvement rather than turning every tempo run into a race.
 
-Another speed-development method is [[3.speed-workouts/hill-repeats|Hill Repeats]], which uses elevation to add resistance and intensity.
+---
+
+## ❤️ Tempo Runs and Endurance
+
+Tempo runs require both speed and aerobic endurance.
+
+A stronger aerobic foundation can help runners maintain faster efforts for longer periods.
+
+This is why tempo training works well alongside:
+
+- [[2.weekly-training-plan/easy-run-days|Easy Run Days]]
+- [[2.weekly-training-plan/long-run-day|Long Run Day]]
+- [[1.running-basics/building-aerobic-endurance|Building Aerobic Endurance]]
+
+These easier and longer sessions help support the harder tempo efforts.
+
+---
+
+## 🏁 Tempo Runs and 5K Preparation
+
+Tempo runs can help runners become more comfortable with sustained discomfort.
+
+During a 5K race, maintaining pace becomes more difficult as fatigue increases.
+
+Tempo training gives runners practice staying focused and controlled during longer hard efforts.
+
+This can support the strategies discussed in [[7.race-day-strategy/race-day-pacing|Race Day Pacing]].
+
+---
+
+## 🔗 Related Pages
+
+Review [[3.speed-workouts/interval-training|Interval Training]] for shorter, faster repetitions.
+
+Continue to [[3.speed-workouts/hill-repeats|Hill Repeats]] for another type of speed-focused workout.
+
+Return to the [[3.speed-workouts/index|Speed Workouts]] section to review all three workout types.

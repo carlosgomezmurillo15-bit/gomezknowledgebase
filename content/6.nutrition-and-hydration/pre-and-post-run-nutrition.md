@@ -1,163 +1,293 @@
 ---
+title: Pre and Post-Run Nutrition
+---
 
-# Pre- and Post-Run Nutrition
+# 🍌 Pre and Post-Run Nutrition
 
-What a runner eats before and after training can influence energy, comfort, and recovery. There is no single meal that works perfectly for every person because food preferences, digestion, workout timing, and training intensity can all be different.
+Eating before and after running can help support training quality, energy levels, and recovery.
 
-For someone preparing for a 5K, the main goal is to develop a routine that feels familiar and provides enough energy for training without causing unnecessary stomach discomfort.
+The goal is not to create a complicated meal plan. Instead, runners should learn which foods feel comfortable before exercise and how to refuel afterward.
 
-## Eating Before a Run
+> The best pre-run and post-run nutrition plan is one that supports training and can be repeated consistently.
 
-Before running, many athletes prefer foods that are relatively easy to digest and contain carbohydrates for energy.
+---
 
-Possible options include:
+## ⏰ Eating Before a Run
 
-- Banana
-    
-- Toast
-    
-- Oatmeal
-    
-- Yogurt
-    
-- Fruit
-    
-- Cereal
-    
-- Small sandwich
-    
+The amount of food a runner needs before training depends on:
 
-The size of the meal may depend on how much time is available before the workout.
+- How long until the workout begins
+- How hard the workout will be
+- How long the workout will last
+- What the runner has already eaten that day
+- Individual stomach comfort
 
-A larger meal may require more time to digest, while a smaller snack may be more comfortable when running sooner.
+A larger meal usually needs more time to digest, while a smaller snack can often be eaten closer to the start of training.
 
-> The best pre-run meal is usually one that provides energy and has already been tested successfully during training.
+---
 
-## Different Workouts May Require Different Fueling
+## 🍽️ 2 to 3 Hours Before Running
 
-Not every workout creates the same energy demands.
+When there is enough time before the workout, runners may eat a normal meal containing carbohydrates and some protein.
 
-A short [[2.weekly-training-plan/easy-run-days|Easy Run Day]] may require less preparation than a longer or more demanding session.
+Examples include:
 
-More attention to pre-run nutrition may be useful before:
+- Oatmeal with banana and Greek yogurt
+- Eggs with toast and fruit
+- Turkey sandwich with fruit
+- Chicken with rice
+- Cereal with milk and banana
+
+A pre-run meal should generally be familiar and comfortable.
+
+Very heavy meals immediately before running may cause stomach discomfort.
+
+---
+
+## 🍌 30 to 90 Minutes Before Running
+
+When there is less time before training, a smaller snack may work better.
+
+Examples include:
+
+| Snack | Example Portion |
+|---|---|
+| Banana | 1 medium banana |
+| Toast | 1–2 slices |
+| Granola Bar | 1 bar |
+| Applesauce | 1 pouch |
+| Cereal | 1 small bowl |
+| Yogurt | 1 small serving |
+
+The closer the workout gets, the simpler the food may need to be.
+
+Runners should practice these choices during training to learn what works best.
+
+---
+
+## ⚡ Fuel Harder Workouts
+
+Harder sessions may benefit from more attention to pre-run nutrition.
+
+Before workouts such as:
 
 - [[3.speed-workouts/interval-training|Interval Training]]
-    
 - [[3.speed-workouts/tempo-runs|Tempo Runs]]
-    
-- [[2.weekly-training-plan/long-run-day|Long Run Days]]
-    
-- Longer strength sessions
-    
+- [[2.weekly-training-plan/long-run-day|Long Run Day]]
 
-The goal is not necessarily to eat more before every difficult workout, but to avoid beginning important sessions feeling unusually low on energy.
+a runner may want to eat a carbohydrate-containing meal or snack beforehand.
 
-## Avoiding New Foods Before Important Runs
+For example:
 
-Training is the best time to learn which foods work well before running.
+**90 Minutes Before**
 
-Trying unfamiliar foods immediately before a race can create unnecessary problems such as stomach discomfort or digestive issues.
+- Banana
+- Toast with peanut butter
+- Water
 
-This leads to a useful race-preparation principle:
+or
 
-> Nothing new on race day.
+**2 to 3 Hours Before**
 
-Foods and drinks used before a 5K should ideally be familiar from previous training.
+- Oatmeal
+- Eggs
+- Fruit
+- Water
 
-This connects directly to [[7.race-day-strategy/race-morning-preparation|Race Morning Preparation]].
+The goal is to begin the workout with enough energy without feeling overly full.
 
-## Eating After a Run
+---
 
-After training, the body begins recovering from the physical stress of the workout.
+## 🏃 Before an Easy Run
 
-A balanced post-run meal may include:
+A short easy run may require less preparation than a hard workout.
 
-- Carbohydrates
-    
-- Protein
-    
-- Fluids
-    
-- Fruits or vegetables
-    
+If a runner has already eaten a normal meal recently, an additional snack may not be necessary.
 
-Carbohydrates help replace energy used during training, while protein supports the maintenance and repair of body tissues.
+For example:
 
-Examples of post-run meals might include:
+**Breakfast at 8:00 AM**
 
-- Chicken with rice and vegetables
-    
-- Eggs with toast and fruit
-    
-- Yogurt with oats and fruit
-    
-- Sandwich with a protein source
-    
-- Rice bowl with meat or beans
-    
+Oatmeal, eggs, and fruit
 
-The exact meal is less important than maintaining an overall consistent eating pattern.
+**Easy run at 10:00 AM**
 
-## Timing After Training
+The runner may already have enough energy from breakfast.
 
-Runners do not always need to eat immediately after every short run.
+The exact approach depends on individual comfort and hunger.
 
-However, after longer or harder training sessions, eating within a reasonable period can support recovery and help prepare the body for the next workout.
+Learn more about easy training in [[2.weekly-training-plan/easy-run-days|Easy Run Days]].
 
-This becomes especially relevant when the runner has another training session planned within the next day.
+---
 
-Post-run nutrition works together with [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]] and [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]].
+## 🔄 Nutrition After Running
 
-## Hydration After Running
+After training, runners should focus on replacing energy and supporting recovery.
 
-Fluid replacement is another part of post-run nutrition.
+A simple post-run meal can combine:
 
-A runner who sweats heavily may need to pay more attention to hydration after training, especially during hot weather.
+**Carbohydrates + Protein + Fluids**
 
-This topic is covered in greater detail in [[6.nutrition-and-hydration/hydration-for-runners|Hydration for Runners]].
+Examples include:
 
-Food and hydration should be viewed together rather than as completely separate parts of recovery.
+- Chicken and rice
+- Eggs and toast
+- Greek yogurt with fruit and granola
+- Turkey sandwich and fruit
+- Pasta with lean meat
+- Chocolate milk with a meal or snack
 
-## Common Nutrition Mistakes
+The meal does not need to be perfect.
 
-One common mistake is waiting until race week to suddenly change eating habits.
+The main goal is to continue eating balanced meals after training.
 
-Another is assuming that expensive sports products are required for every workout.
+---
 
-For many recreational 5K runners, normal foods and regular meals can provide most of what is needed for training.
+## 💪 Example Post-Workout Meals
 
-Other common mistakes may include:
+### After an Easy Run
 
-1. Eating an unusually large meal immediately before running
-    
-2. Trying new foods before an important workout
-    
-3. Ignoring hydration during hot weather
-    
-4. Consistently under-eating while increasing training
-    
-5. Depending entirely on supplements instead of regular meals
-    
+- Greek yogurt
+- Banana
+- Granola
+- Water
 
-## Building a Consistent Routine
+### After a Speed Workout
 
-The most useful nutrition strategy is one that can be repeated consistently.
+- Chicken
+- Rice
+- Vegetables
+- Fruit
+- Water
 
-Runners can use regular training sessions to learn:
+### After a Long Run
 
-- Which foods feel comfortable before running
-    
-- How long they prefer to wait after eating
-    
-- What meals help them feel recovered
-    
-- How hydration needs change with weather
-    
-- Which foods they want to use before race day
-    
+- Eggs
+- Toast
+- Oatmeal
+- Banana
+- Milk or water
 
-These habits connect directly to [[6.nutrition-and-hydration/fueling-for-running|Fueling for Running]].
+These examples can be adjusted based on food preference and training schedule.
 
-By practicing nutrition during training, runners can arrive at race day with a familiar routine instead of making last-minute decisions.
+---
 
-Pre- and post-run nutrition should support the larger training process by helping the runner complete workouts, recover effectively, and remain consistent throughout 5K preparation.
+## ⏱️ Example 2-Hour Recovery Timeline
+
+After a demanding workout, a runner could use this simple routine:
+
+### Immediately After
+
+- Walk for 5 minutes
+- Begin drinking fluids
+
+### Within 30 Minutes
+
+Eat a small snack if a full meal is not available.
+
+Example:
+
+- Banana and Greek yogurt
+
+### Within 1 to 2 Hours
+
+Eat a balanced meal.
+
+Example:
+
+- Chicken
+- Rice
+- Vegetables
+- Water
+
+This supports the recovery process described in [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]].
+
+---
+
+## 💧 Combine Food and Hydration
+
+Post-run nutrition should also include hydration.
+
+A simple recovery approach might be:
+
+1. Drink water after the run.
+2. Eat a carbohydrate and protein source.
+3. Continue drinking fluids with meals.
+4. Add electrolytes when needed after hot or very sweaty training.
+
+Visit [[6.nutrition-and-hydration/hydration-for-runners|Hydration for Runners]] for more detailed hydration examples.
+
+---
+
+## 📅 Example Training-Day Meal Schedule
+
+A runner completing an evening workout might follow a schedule like this:
+
+| Time | Meal |
+|---|---|
+| 7:00 AM | Oatmeal, eggs, fruit |
+| 12:00 PM | Chicken, rice, vegetables |
+| 4:00 PM | Banana and granola bar |
+| 5:30 PM | Training |
+| 6:30 PM | Greek yogurt and fruit |
+| 7:30 PM | Pasta with lean protein and vegetables |
+
+This is only an example.
+
+Meal timing can be adjusted around work, school, or other responsibilities.
+
+---
+
+## 🧪 Practice Before Race Day
+
+Runners should test their pre-run meals during normal training.
+
+For example:
+
+**Training Week**
+
+Try oatmeal and a banana before a long run.
+
+⬇️
+
+**Evaluate**
+
+Did the meal provide enough energy?
+
+Was the stomach comfortable?
+
+⬇️
+
+**Race Day**
+
+Use a similar familiar meal if it worked well.
+
+Race morning should not be the first time a runner experiments with a new food.
+
+Learn more in [[7.race-day-strategy/race-morning-preparation|Race Morning Preparation]].
+
+---
+
+## ⚠️ Common Pre-Run Mistakes
+
+Runners may want to avoid:
+
+- Eating a very large meal immediately before running
+- Trying unfamiliar foods before a race
+- Skipping food before a demanding workout when energy is low
+- Ignoring hydration
+- Making major nutrition changes on race morning
+
+Nutrition is individual, so runners should use training sessions to find a routine that feels comfortable.
+
+---
+
+## 🔗 Related Pages
+
+Review [[6.nutrition-and-hydration/fueling-for-running|Fueling for Running]] for daily nutrition examples.
+
+Visit [[6.nutrition-and-hydration/hydration-for-runners|Hydration for Runners]] for fluid strategies.
+
+Explore [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]] for a complete recovery routine.
+
+Return to the [[6.nutrition-and-hydration/index|Nutrition and Hydration]] section.

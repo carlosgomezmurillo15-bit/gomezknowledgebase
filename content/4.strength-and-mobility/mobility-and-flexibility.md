@@ -1,126 +1,196 @@
 ---
+title: Mobility and Flexibility
+---
 
+# 🤸 Mobility and Flexibility
 
-# Mobility and Flexibility for Runners
+Mobility and flexibility can help runners maintain comfortable movement throughout a 5K training program.
 
-Mobility and flexibility can support a runner's ability to move comfortably and maintain efficient movement during training. Although the two terms are related, they are not exactly the same. Flexibility generally refers to how much a muscle can lengthen, while mobility refers to how well a joint can move through a useful range of motion with control.
+Mobility focuses on moving joints through a useful range of motion with control, while flexibility generally refers to the ability of muscles to lengthen. For runners, both can be included alongside strength training and recovery.
 
-For runners, the goal does not need to be extreme flexibility. Instead, mobility and flexibility work can help maintain comfortable movement, support warm-ups, and address areas that may feel restricted after repeated training.
+> Mobility work should prepare the body to move well without becoming another exhausting workout.
 
-## Why Mobility Matters for Runners
+---
 
-Running requires repeated movement through the hips, knees, ankles, and feet. Limited movement in one area may sometimes cause a runner to compensate somewhere else.
+## 🧠 Why Mobility Matters for Runners
 
-Common areas runners may focus on include:
+Running repeatedly uses similar movement patterns.
+
+Over time, runners may notice tightness or limited movement in areas such as:
 
 - Ankles
-    
 - Calves
-    
-- Hamstrings
-    
-- Quadriceps
-    
 - Hips
-    
+- Hamstrings
+- Quadriceps
 - Hip flexors
-    
 
-Mobility work can also support [[1.running-basics/proper-running-form|Proper Running Form]] because comfortable movement may make it easier to maintain relaxed and controlled mechanics.
+A consistent mobility routine can help runners maintain comfortable movement while completing easy runs, speed sessions, and long runs.
 
-## Dynamic Movement Before Running
+Mobility also connects with [[1.running-basics/proper-running-form|Proper Running Form]] because restricted or uncomfortable movement may make it more difficult to maintain relaxed running mechanics.
 
-Before a run, dynamic movements are often more practical than long periods of passive stretching. Dynamic movements gradually prepare the body for activity while taking joints and muscles through controlled ranges of motion.
+---
 
-A simple pre-run routine might include:
+## 🔄 Example Pre-Run Dynamic Warm-Up
 
-1. Leg swings
-    
-2. Walking lunges
-    
-3. Ankle circles
-    
-4. Bodyweight squats
-    
-5. High knees
-    
-6. Easy jogging
-    
+Before running, dynamic movements can help prepare the body for the workout.
 
-The goal is not to become tired before the run. The purpose is simply to transition from rest into activity.
+A simple 5 to 10-minute warm-up might include:
 
-> A warm-up should prepare the body for the workout, not become a separate exhausting workout.
+| Exercise | Sets | Reps |
+|---|---:|---:|
+| Leg Swings Forward/Back | 1–2 | 10 each leg |
+| Side-to-Side Leg Swings | 1–2 | 10 each leg |
+| Walking Lunges | 2 | 8 each leg |
+| Ankle Circles | 1 | 10 each direction |
+| Bodyweight Squats | 2 | 10 |
+| High Knees | 2 | 20–30 sec |
 
-## Flexibility After Running
+After completing the mobility exercises, runners can begin with a few minutes of easy jogging before increasing their pace.
 
-After training, some runners prefer gentle stretching for areas that feel tight.
+Before a harder workout such as [[3.speed-workouts/interval-training|Interval Training]], runners may spend additional time warming up.
 
-Examples might include:
+---
 
-- Calf stretches
-    
-- Hamstring stretches
-    
-- Quadriceps stretches
-    
-- Hip-flexor stretches
-    
-- Glute stretches
-    
+## 🦶 Ankle and Calf Mobility
 
-Stretching should feel controlled and should not create sharp pain.
+The ankles and calves experience repeated loading during running.
 
-A runner does not need to force a muscle into the greatest possible range. Small, consistent improvements in comfortable movement may be more useful than aggressive stretching.
+A simple lower-leg mobility routine can include:
 
-## Individual Differences
+1. Knee-to-wall ankle mobilization — 2 sets of 8 to 10 per side
+2. Straight-leg calf stretch — 2 sets of 20 to 30 seconds
+3. Bent-knee calf stretch — 2 sets of 20 to 30 seconds
+4. Ankle circles — 10 repetitions each direction
 
-Not every runner needs the same mobility routine.
+Movements should remain controlled and comfortable.
 
-One runner may feel restricted around the ankles, while another may need more attention around the hips.
+Runners should not force the ankle or calf into painful positions.
 
-The most useful routine is often the one that addresses the runner's own needs without becoming unnecessarily complicated.
+Lower-leg mobility can also be combined with strengthening exercises from [[4.strength-and-mobility/strength-training-for-runners|Strength Training for Runners]].
 
-Mobility can also change depending on training volume, recent [[3.speed-workouts/hill-repeats|Hill Repeats]], or demanding [[2.weekly-training-plan/long-run-day|Long Runs]].
+---
 
-## Mobility and Strength Work Together
+## 🦵 Hip Mobility Routine
 
-Mobility is not a replacement for strength. A runner may have good flexibility but still lack control in certain positions.
+The hips play an important role during each running stride.
 
-This is why mobility work pairs well with [[4.strength-and-mobility/strength-training-for-runners|Strength Training for Runners]].
+A short hip mobility routine might include:
 
-For example, improving ankle mobility may help a runner move more comfortably, but strengthening the muscles around the ankle and lower leg can also support that movement.
+| Exercise | Sets | Reps or Time |
+|---|---:|---:|
+| Hip Circles | 1 | 10 each direction |
+| Walking Lunges | 2 | 8 each leg |
+| 90/90 Hip Rotations | 2 | 8 each side |
+| Hip Flexor Stretch | 2 | 20–30 sec each side |
+| Glute Stretch | 2 | 20–30 sec each side |
 
-Similarly, hip mobility can be useful, but strong glutes and core muscles help control the pelvis while running.
+This routine can be completed after an easy run or as part of a separate recovery session.
 
-## Common Mobility Mistakes
+Mobility work should help the runner feel more comfortable rather than creating additional soreness.
 
-One common mistake is forcing stretches too aggressively. More discomfort does not automatically mean more benefit.
+---
 
-Another mistake is spending so much time on mobility that it replaces the training that matters most.
+## 🧘 Post-Run Flexibility Routine
 
-For a 5K runner, mobility should support the larger program rather than become the entire program.
+After running, some runners may prefer a short stretching routine.
 
-Useful mobility work should be:
+An example is:
 
-- Simple
-    
-- Consistent
-    
-- Comfortable
-    
-- Relevant to the runner's needs
-    
-- Easy to include in the weekly routine
-    
+1. Calf stretch — 30 seconds per side
+2. Quadriceps stretch — 30 seconds per side
+3. Hamstring stretch — 30 seconds per side
+4. Hip flexor stretch — 30 seconds per side
+5. Glute stretch — 30 seconds per side
 
-## Using Mobility as Part of Recovery
+Complete 1 to 2 rounds.
 
-Mobility work can also fit into [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]] or easier training days.
+The routine should take approximately 5 to 10 minutes.
 
-A short mobility routine may help runners feel less stiff after sitting for long periods or completing demanding workouts.
+Stretching should remain gentle. There is no need to force an extreme range of motion after every workout.
 
-However, mobility should not be used to ignore persistent pain or injury symptoms. If a runner experiences ongoing pain, a mobility routine alone may not solve the problem.
+---
 
-Mobility and flexibility are most useful when they are part of a balanced approach that includes running, strength training, recovery, and gradual progression.
+## 📅 Where Mobility Fits in the Training Week
 
-The next related topic is [[4.strength-and-mobility/core-training-for-running|Core Training for Running]], which focuses on trunk stability and body control during movement.
+Mobility work can be added without creating a separate long workout.
+
+For example:
+
+| Day | Mobility Focus |
+|---|---|
+| Easy Run Day | 5-minute dynamic warm-up |
+| Speed Workout | 10-minute dynamic warm-up |
+| Strength Day | Mobility before lifting |
+| Long Run | Short dynamic warm-up |
+| Recovery Day | 10–15 minute mobility routine |
+
+This approach spreads mobility throughout the week instead of relying on one very long session.
+
+Review the [[2.weekly-training-plan/training-overview|Training Overview]] to see how different training components fit together.
+
+---
+
+## 💪 Combine Mobility With Strength
+
+Mobility and strength work well together.
+
+Having a large range of motion is not always useful if the runner cannot control that movement.
+
+For example, runners can combine:
+
+- Ankle mobility with calf raises
+- Hip mobility with lunges
+- Hip flexibility with glute bridges
+- Lower-body mobility with squats
+
+This allows the runner to develop both movement and strength.
+
+Visit [[4.strength-and-mobility/strength-training-for-runners|Strength Training for Runners]] for a complete example workout.
+
+---
+
+## 📈 Progress Mobility Gradually
+
+Mobility training does not need to become dramatically harder.
+
+Progress may involve:
+
+- Moving through a slightly greater comfortable range
+- Improving control
+- Holding stretches slightly longer
+- Becoming more consistent
+- Reducing differences between sides
+
+Consistency is more important than forcing movement.
+
+A short routine performed several times per week may be easier to maintain than one long mobility workout completed occasionally.
+
+---
+
+## ⚠️ Avoid Forcing Painful Movement
+
+Mobility and stretching should not involve sharp pain.
+
+Runners should avoid:
+
+- Forcing extreme positions
+- Stretching aggressively through pain
+- Bouncing uncontrollably during stretches
+- Trying to increase range of motion too quickly
+
+Persistent pain or major limitations in movement may require evaluation rather than simply adding more stretching.
+
+Review [[5.recovery-and-injury-prevention/common-running-injuries|Common Running Injuries]] for information about recognizing persistent problems.
+
+---
+
+## 🔗 Related Pages
+
+Review [[4.strength-and-mobility/strength-training-for-runners|Strength Training for Runners]] for lower-body strengthening exercises.
+
+Continue to [[4.strength-and-mobility/core-training-for-running|Core Training for Running]] for stability and trunk-control exercises.
+
+Visit [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]] for additional recovery strategies.
+
+Return to the [[4.strength-and-mobility/index|Strength and Mobility]] section.

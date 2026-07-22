@@ -1,129 +1,147 @@
 ---
 title: Recovery and Injury Prevention
 ---
----
 
 # 🩹 Recovery and Injury Prevention
 
 Welcome to the **Recovery and Injury Prevention** section of the 5K Race Preparation Knowledge Base.
 
-Training creates physical stress, and progress depends partly on the body's ability to recover from that stress. A runner who constantly pushes through fatigue without enough recovery may eventually experience declining performance, excessive soreness, or physical discomfort.
+Running improvement depends on more than completing workouts. Runners also need enough recovery between training sessions to manage fatigue and continue training consistently.
 
-Recovery should therefore be treated as part of training rather than time spent away from training.
+This section focuses on post-run recovery, common running injuries, and the connection between sleep and performance.
 
-> Training creates the challenge. Recovery helps prepare the runner for the next challenge.
+> Consistent training works best when the body is given enough time to recover from the stress of each workout.
 
 ---
 
 ## 📚 Pages in This Section
 
-### 🔋 [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]]
+### 🔄 [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]]
 
-Learn about practical recovery habits involving cool-downs, hydration, nutrition, light movement, and managing fatigue after training.
+Learn about simple habits that can help runners recover after easy runs, speed workouts, and long runs.
 
 ### ⚠️ [[5.recovery-and-injury-prevention/common-running-injuries|Common Running Injuries]]
 
-Explore common areas of running-related pain, warning signs, sudden training changes, and why persistent pain should not simply be ignored.
+Explore common problems runners may experience and why gradual training progression and attention to discomfort are important.
 
-### 😴 [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]]
+### 💤 [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]]
 
-Learn why sleep is an essential part of physical and mental recovery and how poor sleep can influence training quality.
-
----
-
-## 🔄 The Recovery Cycle
-
-A simple way to understand the relationship between training and recovery is:
-
-**Training → Fatigue → Recovery → Adaptation → More Training**
-
-A hard workout creates stress. Recovery gives the body time to respond to that stress before the next demanding session.
-
-Skipping recovery does not automatically make progress happen faster. Instead, it may reduce the runner's ability to complete quality workouts consistently.
-
-Recovery becomes especially important after:
-
-- [[3.speed-workouts/interval-training|Interval Training]]
-    
-- [[3.speed-workouts/tempo-runs|Tempo Runs]]
-    
-- [[3.speed-workouts/hill-repeats|Hill Repeats]]
-    
-- [[2.weekly-training-plan/long-run-day|Long Run Days]]
-    
-- [[4.strength-and-mobility/strength-training-for-runners|Strength Training]]
-    
+Learn how sleep can influence energy, recovery, training quality, and overall running performance.
 
 ---
 
-## 🚦 Knowing When to Back Off
+## 🧠 Why Recovery Matters
 
-Some soreness and fatigue can be normal after training, especially after a new or challenging workout. However, runners should pay attention when discomfort becomes persistent, progressively worse, or begins changing normal movement.
+Training places stress on the body.
 
-Possible warning signs include:
+After a workout, runners need time to recover before completing another demanding session.
 
-- Sharp or severe pain
-    
-- Swelling
-    
-- Pain that changes running form
-    
-- Difficulty walking normally
-    
-- Pain that continues during several workouts
-    
-- Unusual fatigue that does not improve
-    
+Recovery may include:
 
-Knowing when to reduce training or seek appropriate help can be just as important as knowing when to push harder.
+- Adequate sleep
+- Proper nutrition
+- Hydration
+- Easy training days
+- Rest days
+- Gradual increases in training
 
-> Sometimes the smartest training decision is to recover early instead of being forced to stop later.
+The [[2.weekly-training-plan/rest-and-recovery|Rest and Recovery]] page explains how recovery can be built directly into the weekly training schedule.
 
 ---
 
-## 🛌 Recovery Is More Than Rest
+## ⚖️ Balance Training and Recovery
 
-Recovery includes more than simply taking a day off.
+A balanced training week should separate harder workouts with easier training when possible.
 
-It can involve:
+For example:
 
-1. Adequate sleep
-    
-2. Regular hydration
-    
-3. Consistent nutrition
-    
-4. Easy movement
-    
-5. Mobility work
-    
-6. Reducing training intensity when needed
-    
+**Speed Workout**
 
-These habits work together to help the runner prepare for future sessions.
+⬇️
 
-For example, [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]] affects mental and physical readiness, while [[6.nutrition-and-hydration/index|Nutrition and Hydration]] supports energy and recovery between workouts.
+**Easy Run or Recovery**
+
+⬇️
+
+**Long Run**
+
+⬇️
+
+**Rest or Easy Training**
+
+This balance can help runners manage fatigue while continuing to develop endurance and speed.
+
+Review the [[2.weekly-training-plan/index|Weekly Training Plan]] to see how these sessions fit together.
+
+---
+
+## ⚠️ Pay Attention to Discomfort
+
+Some muscle soreness and fatigue can occur during training, especially when a runner begins a new program.
+
+However, runners should pay attention to pain that:
+
+- Becomes progressively worse
+- Changes normal running form
+- Continues during everyday activities
+- Does not improve with rest
+- Prevents normal training
+
+Trying to ignore persistent pain can make it more difficult to continue training consistently.
+
+Learn more in [[5.recovery-and-injury-prevention/common-running-injuries|Common Running Injuries]].
+
+---
+
+## 💤 Sleep Supports Training
+
+Sleep is one of the most important recovery habits available to runners.
+
+Poor sleep may affect:
+
+- Energy levels
+- Motivation
+- Perceived effort
+- Workout quality
+- Recovery between sessions
+
+Maintaining consistent sleep habits can help support the rest of the training program.
+
+Visit [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]] for more information.
+
+---
+
+## 🍎 Recovery Beyond Rest
+
+Recovery also depends on what runners do outside of training.
+
+Nutrition and hydration can support the body's preparation for future workouts.
+
+Runners should consider:
+
+- Eating balanced meals
+- Replacing fluids after training
+- Fueling around demanding workouts
+- Maintaining consistent daily nutrition
+
+Explore the [[6.nutrition-and-hydration/index|Nutrition and Hydration]] section for more information.
 
 ---
 
 ## 🔗 Related Categories
 
-Recovery connects directly to [[2.weekly-training-plan/rest-and-recovery|Rest and Recovery]] because easier days should be intentionally included in the weekly schedule.
+Review the [[2.weekly-training-plan/index|Weekly Training Plan]] to understand how recovery days fit into the training week.
 
-It also connects to [[4.strength-and-mobility/index|Strength and Mobility]], since supplemental training adds additional physical stress that must be managed.
+Visit [[4.strength-and-mobility/index|Strength and Mobility]] for information about supplemental physical preparation.
 
-The [[6.nutrition-and-hydration/index|Nutrition and Hydration]] section explains how food and fluids support recovery between sessions.
-
-Together, these sections show that what happens **between workouts** can be just as important as the workouts themselves.
+Continue to [[6.nutrition-and-hydration/index|Nutrition and Hydration]] to learn how fueling and hydration support recovery.
 
 ---
 
 ## 🧭 Where to Go Next
 
-Start with [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]] to learn what to do after training.
+Start with [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]].
 
-Then explore [[5.recovery-and-injury-prevention/common-running-injuries|Common Running Injuries]] and [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]] to better understand long-term recovery and consistency.
+Then explore [[5.recovery-and-injury-prevention/common-running-injuries|Common Running Injuries]].
 
----
-
-[← Return to the 5K Race Preparation Homepage](https://chatgpt.com/)
+Finally, review [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]].

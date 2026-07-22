@@ -1,165 +1,278 @@
 ---
+title: Fueling for Running
+---
 
-# Fueling for Running
+# 🍽️ Fueling for Running
 
-Food provides the energy and nutrients the body needs for everyday activity and exercise. For runners preparing for a 5K, fueling does not need to become overly complicated. A consistent eating pattern that supports training is often more useful than relying on special products or making major changes only before race day.
+Running requires energy, and consistent nutrition helps runners support both training and recovery.
 
-The amount of food a runner needs can vary depending on body size, training volume, daily activity, and personal goals. The main idea is to give the body enough energy to complete training and recover afterward.
+A runner preparing for a 5K does not need a complicated diet. Instead, the goal is to eat balanced meals that provide enough carbohydrates, protein, fats, and overall energy to support the weekly training schedule.
 
-## Carbohydrates and Running
+> Good fueling helps runners arrive at workouts with enough energy to train and recover afterward.
 
-Carbohydrates are an important source of energy during exercise.
+---
 
-Common carbohydrate-rich foods include:
+## ⚡ Carbohydrates for Running Energy
+
+Carbohydrates are an important source of energy during running.
+
+Common carbohydrate sources include:
 
 - Rice
-    
-- Potatoes
-    
-- Oats
-    
-- Bread
-    
 - Pasta
-    
-- Fruit
-    
-- Beans
-    
+- Potatoes
+- Oatmeal
+- Bread
 - Cereal
-    
+- Fruit
+- Tortillas
 
-For a runner, carbohydrates can help provide energy for workouts such as [[3.speed-workouts/interval-training|Interval Training]], [[3.speed-workouts/tempo-runs|Tempo Runs]], and the [[2.weekly-training-plan/long-run-day|Long Run Day]].
+Runners completing harder workouts may benefit from including carbohydrates in meals before training.
 
-This does not mean that every meal needs to be extremely high in carbohydrates. Instead, the amount should fit the runner's overall training and daily energy needs.
+For example, before [[3.speed-workouts/interval-training|Interval Training]] or a [[2.weekly-training-plan/long-run-day|Long Run Day]], a runner might eat a meal containing rice, pasta, oatmeal, or another familiar carbohydrate source.
 
-## Protein and Recovery
+---
 
-Protein helps support the maintenance and repair of body tissues.
+## 💪 Protein for Recovery
+
+Protein supports muscle recovery and can be included throughout the day.
 
 Common protein sources include:
 
 - Chicken
-    
-- Beef
-    
-- Fish
-    
+- Turkey
 - Eggs
-    
-- Dairy products
-    
+- Fish
+- Lean beef
+- Greek yogurt
+- Milk
 - Beans
-    
-- Lentils
-    
-- Soy foods
-    
 
-Protein can be especially important after harder training sessions and strength work.
+A simple goal is to include a protein source with most major meals.
 
-This connects directly to [[4.strength-and-mobility/strength-training-for-runners|Strength Training for Runners]] and [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]].
+For example:
 
-## Dietary Fats
+| Meal | Protein Example |
+|---|---|
+| Breakfast | Eggs or Greek yogurt |
+| Lunch | Chicken or turkey |
+| Dinner | Fish, beef, or beans |
+| Snack | Yogurt or milk |
 
-Dietary fats are also an important part of a balanced diet.
+Protein becomes especially important when running is combined with [[4.strength-and-mobility/strength-training-for-runners|Strength Training for Runners]].
 
-Sources may include:
+---
 
-- Nuts
-    
-- Seeds
-    
+## 🥑 Include Dietary Fats
+
+Dietary fats are also part of a balanced eating pattern.
+
+Examples include:
+
 - Avocado
-    
-- Olive oil
-    
-- Fatty fish
-    
+- Nuts
 - Peanut butter
-    
+- Olive oil
+- Seeds
+- Eggs
 
-Rather than eliminating an entire nutrient group, runners can focus on building balanced meals that include a variety of foods.
+These foods can help add energy and variety to meals.
 
-> Fueling for a 5K begins during the weeks of training, not only with one meal the night before the race.
+However, runners may prefer avoiding very large or heavy meals immediately before running because they may be uncomfortable during training.
 
-## Timing Food Around Training
+Individual tolerance is different, so runners should experiment during normal training rather than on race day.
 
-The timing of meals can affect how comfortable a runner feels during a workout.
+---
 
-Eating a large meal immediately before running may cause discomfort for some people, while running completely unfueled may leave others feeling low on energy.
+## 🍌 Example Pre-Run Fuel
 
-Training is a useful time to learn what works best.
+The amount of food needed before running depends on how long the runner has before the workout.
 
-Some runners may prefer a small snack before training, while others may eat a regular meal several hours earlier.
+### 2 to 3 Hours Before
 
-Possible pre-run options include:
+A larger meal might include:
+
+- Oatmeal with banana and yogurt
+- Turkey sandwich with fruit
+- Rice with chicken
+- Eggs with toast and fruit
+
+### 30 to 90 Minutes Before
+
+A smaller snack might include:
 
 - Banana
-    
 - Toast
-    
+- Granola bar
+- Applesauce
+- Small bowl of cereal
+
+The closer the runner gets to training, the simpler and smaller the food may need to be.
+
+More examples are available in [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre and Post-Run Nutrition]].
+
+---
+
+## 📅 Fuel Based on the Workout
+
+Not every training day requires the same amount of planning.
+
+| Workout | Fueling Focus |
+|---|---|
+| Easy Run | Normal balanced meals |
+| Speed Workout | Carbohydrate-containing meal or snack beforehand |
+| Strength Training | Adequate overall food and protein |
+| Long Run | Eat beforehand and pay attention to hydration |
+| Recovery Day | Continue eating balanced meals |
+
+For a short easy run, a runner who recently ate a normal meal may not need an additional snack.
+
+Before a demanding speed session or longer run, arriving properly fueled may help support workout quality.
+
+---
+
+## 🏃 Example Full Training Day
+
+A runner completing an afternoon workout might organize meals like this:
+
+### Breakfast
+
 - Oatmeal
-    
-- Yogurt
-    
+- Banana
+- Eggs
+- Water
+
+### Lunch
+
+- Chicken
+- Rice
+- Vegetables
 - Fruit
-    
-- Small sandwich
-    
 
-The goal is to use foods that feel familiar and comfortable.
+### Pre-Run Snack
 
-More detailed information is available in [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre- and Post-Run Nutrition]].
+About 60 to 90 minutes before training:
 
-## Fueling Harder Workouts
+- Banana
+- Granola bar
+- Water
 
-More demanding sessions may require more attention to fueling than short easy runs.
+### Workout
 
-For example, a runner completing a difficult speed workout may benefit from arriving at the session properly fed rather than beginning with very low energy.
+[[3.speed-workouts/tempo-runs|Tempo Run]] or another scheduled session
 
-This is especially important for workouts such as:
+### Post-Run Snack
 
-- Interval sessions
-    
-- Tempo runs
-    
-- Long runs
-    
-- Strength training
-    
+- Greek yogurt with fruit
 
-A runner who consistently under-fuels may feel unusually tired, struggle to complete planned workouts, or recover poorly.
+### Dinner
 
-## Avoid Overcomplicating Nutrition
+- Pasta
+- Lean protein
+- Vegetables
+- Water
 
-One common mistake is believing that every runner needs expensive supplements, energy gels, or sports drinks for every workout.
+This is only an example and can be adjusted based on food preferences and training schedules.
 
-For many recreational 5K runners, regular meals and normal hydration may be enough for most training sessions.
+---
 
-Special products may be useful in certain situations, but they are not automatically required for every run.
+## 🔄 Fuel After Training
 
-A more practical approach is to focus on:
+After a demanding workout, runners can focus on replacing energy and supporting recovery.
 
-1. Eating consistently
-    
-2. Including a variety of foods
-    
-3. Consuming enough total energy
-    
-4. Drinking enough fluids
-    
-5. Learning what foods feel comfortable before running
-    
+A simple recovery meal might include:
 
-## Fueling and Race Preparation
+**Carbohydrate + Protein + Fluids**
 
-Race day should not be the first time a runner tests a new meal or snack.
+Examples:
 
-The foods eaten before a 5K should ideally be similar to foods already used successfully before training.
+- Chicken + rice + water
+- Eggs + toast + fruit
+- Greek yogurt + granola + banana
+- Turkey sandwich + fruit + milk
+- Pasta + lean meat + vegetables
 
-This connects directly to [[7.race-day-strategy/race-morning-preparation|Race Morning Preparation]].
+This does not need to happen within an exact minute after every workout.
 
-Fueling works together with [[6.nutrition-and-hydration/hydration-for-runners|Hydration for Runners]] and recovery habits to support the full training process.
+The main goal is to continue eating and drinking appropriately during the hours following training.
 
-A balanced approach to nutrition can help runners arrive at workouts with enough energy and recover well enough to remain consistent throughout their 5K preparation.
+Visit [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]] for a complete recovery routine.
+
+---
+
+## 🛒 Simple Runner Grocery List
+
+A basic grocery list for 5K training might include:
+
+### Carbohydrates
+
+- Rice
+- Oatmeal
+- Bread
+- Pasta
+- Potatoes
+- Bananas
+
+### Protein
+
+- Chicken
+- Eggs
+- Greek yogurt
+- Turkey
+- Fish
+- Beans
+
+### Fruits and Vegetables
+
+- Bananas
+- Apples
+- Berries
+- Spinach
+- Broccoli
+- Mixed vegetables
+
+### Additional Foods
+
+- Peanut butter
+- Olive oil
+- Milk
+- Granola
+- Nuts
+
+Having simple foods available can make consistent eating easier during busy training weeks.
+
+---
+
+## ⚠️ Avoid Experimenting on Race Day
+
+Race morning should not be the first time a runner tries a new meal, supplement, or unusual food.
+
+Instead, runners should practice their fueling routine during training.
+
+For example:
+
+**Training**
+
+Oatmeal + banana works well before a long run.
+
+⬇️
+
+**Race Preparation**
+
+Use a similar familiar meal before the 5K.
+
+Practicing nutrition beforehand can make the race-morning routine more predictable.
+
+Learn more in [[7.race-day-strategy/race-morning-preparation|Race Morning Preparation]].
+
+---
+
+## 🔗 Related Pages
+
+Continue to [[6.nutrition-and-hydration/hydration-for-runners|Hydration for Runners]] for practical hydration strategies.
+
+Visit [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre and Post-Run Nutrition]] for more specific meal timing examples.
+
+Review [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]] for recovery habits after harder workouts.
+
+Return to the [[6.nutrition-and-hydration/index|Nutrition and Hydration]] section.

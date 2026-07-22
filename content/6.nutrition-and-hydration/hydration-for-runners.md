@@ -1,144 +1,243 @@
 ---
+title: Hydration for Runners
+---
 
-# Hydration for Runners
+# 💧 Hydration for Runners
 
-Hydration is an important part of running because the body loses fluid through sweat during exercise. The amount of fluid a runner needs can change depending on the weather, workout duration, body size, clothing, and individual sweat rate.
+Hydration plays an important role in running performance, especially during longer workouts and training in hot or humid weather.
 
-For someone preparing for a 5K, the goal should be to develop consistent hydration habits during training rather than waiting until race day to think about fluids.
+Runners lose fluid through sweat, and the amount lost can vary based on temperature, workout intensity, body size, clothing, and individual sweat rate.
 
-## Everyday Hydration
+The goal is not to follow one exact amount for every runner. Instead, runners should develop consistent hydration habits and adjust them based on training conditions.
 
-A runner does not need to drink an excessive amount of water all at once. Instead, regular hydration throughout the day can help the body begin workouts in a better state.
+> Good hydration begins before the workout, continues during demanding sessions when needed, and remains important after the run is finished.
 
-Water is appropriate for many normal daily hydration needs.
+---
 
-Useful habits may include:
+## 🚰 Hydration Throughout the Day
 
-- Drinking fluids regularly during the day
-    
-- Paying attention to thirst
-    
-- Increasing awareness during hot weather
-    
-- Bringing water when training conditions require it
-    
-- Replacing fluids after longer or harder sessions
-    
+Runners should not wait until immediately before a workout to begin drinking fluids.
 
-The exact amount will vary from person to person.
+A simple daily approach is to:
 
-## Hydration During Running
+- Drink fluids regularly throughout the day
+- Drink with meals
+- Carry a water bottle when convenient
+- Pay more attention to hydration during hot weather
+- Replace additional fluids after sweaty workouts
 
-Many short, easy runs may not require a runner to carry water, especially in mild conditions. Longer sessions or hot-weather runs may create a greater need for fluids.
+Individual needs vary, so runners should pay attention to thirst and how they feel during training.
 
-For example, hydration may become more important during:
+Consistent daily hydration can make preparing for a workout easier than trying to drink a large amount immediately before running.
 
-- [[2.weekly-training-plan/long-run-day|Long Run Days]]
-    
-- Hot-weather training
-    
-- Longer speed sessions
-    
-- Workouts with heavy sweating
-    
+---
 
-The runner should consider both workout duration and environmental conditions.
+## ⏰ Before the Run
 
-## Running in the Heat
+Before training, the goal is to begin the workout comfortably hydrated without drinking so much fluid that the stomach feels uncomfortable.
 
-Heat can make the same running pace feel much harder.
+An example routine might be:
 
-When temperatures rise, the body must work harder to manage heat while continuing to exercise. This may increase sweating and the feeling of effort.
+### 2 to 3 Hours Before
 
-Runners may need to adjust by:
+Drink approximately:
 
-1. Running earlier or later in the day
-    
-2. Choosing shaded routes
-    
-3. Slowing the pace
-    
-4. Carrying water
-    
-5. Wearing appropriate clothing
-    
-6. Taking additional breaks
-    
+**12 to 20 ounces of fluid**
 
-> Smart training adapts to the environment instead of pretending the environment does not matter.
+This may come from water or another familiar beverage.
 
-This connects directly to [[1.running-basics/understanding-running-pace|Understanding Running Pace]], because effort can change even when the pace shown on a watch stays the same.
+### 15 to 30 Minutes Before
 
-## Water and Electrolytes
+If needed, drink another:
 
-Water is enough for many normal training situations, but longer or very sweaty sessions may increase the importance of electrolytes such as sodium.
+**4 to 8 ounces**
 
-Sports drinks and electrolyte products can be useful in some situations, but they are not automatically necessary for every short run.
+These amounts are only examples and may need to be adjusted based on the runner, weather, and workout.
 
-The runner should consider:
+The runner should avoid suddenly drinking a very large amount immediately before starting.
 
+---
+
+## 🏃 Hydration During Running
+
+Shorter easy runs may not require drinking during the workout, especially in mild weather.
+
+For longer or hotter sessions, carrying fluids may be useful.
+
+Examples include:
+
+- Handheld running bottle
+- Hydration belt
+- Hydration vest
+- Water fountains along the route
+- Planned water stops
+
+A runner completing a longer session might take a few small drinks every 15 to 20 minutes rather than drinking a large amount all at once.
+
+The amount needed depends heavily on:
+
+- Temperature
+- Humidity
 - Workout duration
-    
-- Heat
-    
-- Sweat rate
-    
-- Individual tolerance
-    
-- Overall diet
-    
+- Running intensity
+- Individual sweat rate
 
-For most recreational 5K runners, basic hydration habits are usually more important than relying on special products for every session.
+Runners should practice their hydration strategy during training before relying on it during a race.
 
-## Signs That Hydration May Need More Attention
+---
 
-A runner should pay attention to how they feel before, during, and after training.
+## ☀️ Running in Hot Weather
 
-Possible signs that hydration needs more attention may include:
+Heat and humidity can increase fluid loss and make the same running pace feel more difficult.
 
-- Excessive thirst
-    
-- Headache
-    
-- Unusual fatigue
-    
-- Dizziness
-    
-- Very dark urine
-    
-- Feeling weak during a workout
-    
+During hot conditions, runners may need to:
 
-These symptoms can have multiple causes, so they should not automatically be treated as dehydration alone.
+- Drink more throughout the day
+- Carry fluids during longer runs
+- Slow the running pace
+- Train earlier or later in the day
+- Choose shaded routes
+- Take additional recovery breaks
 
-Persistent or severe symptoms may require medical attention.
+For example, a planned 45-minute easy run may need to become a slower effort when temperatures are unusually high.
 
-## Avoid Overhydration
+Runners should focus on effort rather than forcing their normal pace in difficult conditions.
 
-Drinking too much fluid can also be a problem.
+Review [[1.running-basics/understanding-running-pace|Understanding Running Pace]] for more information about adjusting effort.
 
-The goal is not to force extremely large amounts of water in a short period. A more practical approach is to drink regularly and respond to the demands of the workout and environment.
+---
 
-More is not always better.
+## 🧂 Electrolytes
 
-## Hydration After Running
+Sweat contains both water and electrolytes.
 
-After a difficult or sweaty workout, replacing fluids can become part of [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]].
+During shorter workouts, normal meals and water may be enough for many runners.
 
-A runner may also include food and fluids together after training.
+Electrolyte-containing drinks may become more useful during:
 
-This connects hydration to [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre- and Post-Run Nutrition]].
+- Longer training sessions
+- Very hot weather
+- Heavy sweating
+- Multiple workouts in one day
 
-## Hydration on Race Day
+Common electrolyte drinks contain minerals such as sodium and potassium.
 
-Race morning should not be the first time a runner experiments with hydration.
+Runners should test these drinks during training because some products may feel uncomfortable on the stomach.
 
-A better approach is to use habits that have already been tested during training.
+There is usually no need to experiment with a completely new sports drink on race morning.
 
-This is especially important when the 5K is held in warm conditions.
+---
 
-Hydration planning becomes part of [[7.race-day-strategy/race-morning-preparation|Race Morning Preparation]].
+## 🔄 Rehydrating After Training
 
-The goal is to arrive at the starting line normally hydrated, comfortable, and familiar with the routine.
+After running, runners should continue replacing fluids lost during the workout.
 
-Consistent hydration throughout training supports both performance and recovery and should be treated as part of the overall 5K preparation system.
+A simple post-run routine might include:
+
+1. Walk for 5 minutes to cool down.
+2. Drink water after finishing.
+3. Continue drinking fluids with meals.
+4. Eat a balanced meal or snack.
+5. Consider electrolytes after especially hot or sweaty sessions.
+
+A runner does not necessarily need to replace every ounce of fluid immediately.
+
+Instead, hydration can continue gradually throughout the hours following training.
+
+This connects directly with [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]].
+
+---
+
+## 📊 Example Hydration Plan
+
+Here is an example for an afternoon training session:
+
+| Time | Hydration |
+|---|---|
+| Morning | Drink water with breakfast |
+| Lunch | Drink fluids with the meal |
+| 2–3 Hours Before Run | 12–20 oz water |
+| 15–30 Minutes Before | 4–8 oz if needed |
+| During Short Easy Run | May not need fluids |
+| During Longer/Hot Run | Small drinks as needed |
+| After Run | Rehydrate gradually |
+| Evening | Continue normal fluid intake |
+
+This is only an example.
+
+Individual hydration needs can be higher or lower.
+
+---
+
+## 🧪 Estimate Personal Sweat Loss
+
+Runners who want a more individualized approach can compare their body weight before and after a run.
+
+For example:
+
+1. Weigh before running.
+2. Complete the workout.
+3. Track approximately how much fluid was consumed.
+4. Weigh again after the run.
+
+A noticeable decrease in body weight can provide a rough indication that fluid was lost during the workout.
+
+This information can help runners better understand how much they tend to sweat under certain conditions.
+
+The goal is not to make hydration complicated, but to become more aware of personal needs.
+
+---
+
+## ⚠️ Avoid Overhydration
+
+Drinking excessive amounts of water can also create problems.
+
+Runners should avoid forcing large amounts of fluid simply because they believe more is always better.
+
+A practical approach is to:
+
+- Drink consistently throughout the day
+- Pay attention to thirst
+- Adjust for weather and workout length
+- Avoid rapidly drinking extreme amounts
+- Practice hydration habits during training
+
+Hydration should be balanced rather than excessive.
+
+---
+
+## 🏁 Hydration on Race Morning
+
+Race-day hydration should feel familiar.
+
+A simple routine might look like:
+
+**2 to 3 Hours Before**
+
+Drink water with breakfast.
+
+**30 Minutes Before**
+
+Take a small amount of fluid if thirsty.
+
+**During the 5K**
+
+Some runners may not need fluids during a short 5K, while others may choose to use an available water station, especially in hot conditions.
+
+The most important rule is to avoid making major changes on race morning.
+
+Practice the same general approach during training.
+
+Learn more in [[7.race-day-strategy/race-morning-preparation|Race Morning Preparation]].
+
+---
+
+## 🔗 Related Pages
+
+Continue to [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre and Post-Run Nutrition]] for meal and snack timing.
+
+Review [[6.nutrition-and-hydration/fueling-for-running|Fueling for Running]] for examples of balanced meals.
+
+Visit [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]] for a complete recovery routine.
+
+Return to the [[6.nutrition-and-hydration/index|Nutrition and Hydration]] section.

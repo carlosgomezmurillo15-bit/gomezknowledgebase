@@ -1,17 +1,16 @@
 ---
 title: Strength and Mobility
 ---
----
 
 # 💪 Strength and Mobility
 
 Welcome to the **Strength and Mobility** section of the 5K Race Preparation Knowledge Base.
 
-Running is the primary activity used to prepare for a 5K, but running does not have to be the only type of training. Strength, mobility, and core work can complement a running program by improving muscular strength, movement control, stability, and overall physical preparation.
+Running is the main focus of 5K training, but strength and mobility work can support overall performance by helping runners maintain control, stability, and efficient movement.
 
-The goal is not to replace running with hours of gym training. Instead, supplemental training should support the runner and fit naturally within the larger weekly training plan.
+These sessions should complement running rather than interfere with important workouts.
 
-> Supplemental training should make you a stronger and more capable runner—not leave you too exhausted to complete your important runs.
+> Strength and mobility training should support better running, not leave the runner too fatigued to complete the rest of the training plan.
 
 ---
 
@@ -19,89 +18,133 @@ The goal is not to replace running with hours of gym training. Instead, suppleme
 
 ### 🏋️ [[4.strength-and-mobility/strength-training-for-runners|Strength Training for Runners]]
 
-Learn how basic resistance exercises for the legs, hips, calves, core, and upper body can support a complete running program and improve general physical strength.
+Learn how basic strength exercises can support the legs, hips, and other muscles used during running.
 
-### 🧘 [[4.strength-and-mobility/mobility-and-flexibility|Mobility and Flexibility]]
+### 🤸 [[4.strength-and-mobility/mobility-and-flexibility|Mobility and Flexibility]]
 
-Explore dynamic warm-ups, stretching, and mobility exercises that can help runners maintain comfortable and controlled movement.
+Explore mobility exercises and movement habits that can help runners maintain comfortable range of motion.
 
-### 🎯 [[4.strength-and-mobility/core-training-for-running|Core Training for Running]]
+### 🧱 [[4.strength-and-mobility/core-training-for-running|Core Training for Running]]
 
-Learn how trunk and pelvic stability can support posture, body control, and running form during easy runs, speed workouts, and the later stages of a 5K race.
+Learn how core strength can support posture, stability, and overall body control while running.
 
 ---
 
-## 🧩 How the Pieces Work Together
+## 🧠 Why Strength Training Matters
 
-Strength, mobility, and core training each serve a different purpose:
+Running repeatedly places demands on the lower body.
 
-|Training Area|Main Purpose|
+Strength training can help runners develop stronger muscles in areas such as:
+
+- Quadriceps
+- Hamstrings
+- Glutes
+- Calves
+- Hips
+- Core
+
+A stronger body may help runners maintain better control during training and as fatigue increases.
+
+Strength work should be scheduled carefully so that it does not negatively affect important running sessions.
+
+Review the [[2.weekly-training-plan/index|Weekly Training Plan]] to understand how different types of training can fit together.
+
+---
+
+## 🤸 Mobility and Movement
+
+Mobility refers to the ability to move comfortably through a useful range of motion.
+
+Runners may use mobility exercises before or after training depending on the purpose of the session.
+
+Common areas of focus include:
+
+- Ankles
+- Calves
+- Hips
+- Hamstrings
+- Quadriceps
+
+Mobility work should generally feel controlled rather than painful.
+
+Learn more in [[4.strength-and-mobility/mobility-and-flexibility|Mobility and Flexibility]].
+
+---
+
+## 🧱 The Role of the Core
+
+The core helps connect the upper and lower body during movement.
+
+Core training may help runners maintain:
+
+- Better posture
+- Stability
+- Controlled movement
+- Balance during fatigue
+
+Core exercises do not need to be extremely complicated.
+
+Simple movements performed consistently can be useful when included as part of a balanced training program.
+
+Visit [[4.strength-and-mobility/core-training-for-running|Core Training for Running]] for more information.
+
+---
+
+## 📅 Where Strength Fits in the Week
+
+Strength training should usually be placed where it does not interfere with key running workouts.
+
+A simple weekly structure might include:
+
+| Day | Training |
 |---|---|
-|Strength Training|Develop muscular force and overall physical capacity|
-|Mobility and Flexibility|Support comfortable movement through useful ranges of motion|
-|Core Training|Improve trunk stability, posture, and body control|
+| Monday | Rest |
+| Tuesday | Easy Run |
+| Wednesday | Speed Workout |
+| Thursday | Easy Run |
+| Friday | Strength and Mobility |
+| Saturday | Long Run |
+| Sunday | Easy Run or Recovery |
 
-These areas work best when they complement one another.
+This is only one example.
 
-A runner may have good mobility but still need greater strength and control. Another runner may be physically strong but benefit from mobility work in areas that feel restricted.
-
-The goal is to create a balanced approach based on the runner's individual needs.
-
----
-
-## 📅 Fitting Strength and Mobility Into the Week
-
-Strength and mobility work should be organized around important running sessions.
-
-A balanced approach might include:
-
-- One or two strength sessions each week
-    
-- Short mobility routines before or after training
-    
-- Core exercises included within strength sessions
-    
-- Easier mobility work during recovery-focused days
-    
-
-The exact schedule depends on experience and recovery ability.
-
-For example, completing an extremely demanding lower-body strength workout immediately before [[3.speed-workouts/interval-training|Interval Training]] or a [[2.weekly-training-plan/long-run-day|Long Run Day]] may reduce the quality of the running workout.
-
-This is why supplemental training should fit within the larger [[2.weekly-training-plan/index|Weekly Training Plan]].
+The exact schedule depends on the runner's training level and recovery ability.
 
 ---
 
-## ⚖️ Supporting Running Without Creating Too Much Fatigue
+## ⚖️ Avoid Excessive Fatigue
 
-Strength training can be valuable, but runners should remember that it adds additional training stress.
+Strength training should support the running plan.
 
-The goal is not to become as sore as possible after every gym session. Instead, strength work should gradually improve physical capacity while still allowing the runner to complete important running workouts.
+Too much volume or intensity may leave the legs overly fatigued before:
 
-Mobility and core work can often be included with less fatigue, but these activities should still remain purposeful.
+- Speed workouts
+- Long runs
+- Important race-specific sessions
 
-> More training is not always better. The best supplemental training is the amount that improves physical preparation without constantly interfering with running.
+Runners should balance strength training with recovery.
+
+Learn more about recovery in [[5.recovery-and-injury-prevention/index|Recovery and Injury Prevention]].
 
 ---
 
 ## 🔗 Related Categories
 
-Strength and mobility connect directly to the [[2.weekly-training-plan/index|Weekly Training Plan]] because supplemental training must be organized around running sessions.
+Review [[1.running-basics/index|Running Basics]] for information about running form and endurance.
 
-Runners completing demanding [[3.speed-workouts/index|Speed Workouts]] should also consider how strength training contributes to overall fatigue.
+Visit the [[2.weekly-training-plan/index|Weekly Training Plan]] to see how strength sessions can fit into the week.
 
-Recovery between strength and running sessions is explored in [[5.recovery-and-injury-prevention/index|Recovery and Injury Prevention]].
-
-These sections work together to create a more complete approach to 5K preparation.
+Explore [[5.recovery-and-injury-prevention/index|Recovery and Injury Prevention]] for information about managing fatigue.
 
 ---
 
 ## 🧭 Where to Go Next
 
-Start with [[4.strength-and-mobility/strength-training-for-runners|Strength Training for Runners]] to learn how resistance exercises can support running.
+Start with [[4.strength-and-mobility/strength-training-for-runners|Strength Training for Runners]].
 
-Then explore [[4.strength-and-mobility/mobility-and-flexibility|Mobility and Flexibility]] and [[4.strength-and-mobility/core-training-for-running|Core Training for Running]] to build a more complete supplemental training routine.
+Then continue to [[4.strength-and-mobility/mobility-and-flexibility|Mobility and Flexibility]].
+
+Finally, explore [[4.strength-and-mobility/core-training-for-running|Core Training for Running]].
 
 ---
 
-[← Return to the 5K Race Preparation Homepage](https://chatgpt.com/)

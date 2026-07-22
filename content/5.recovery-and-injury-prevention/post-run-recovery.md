@@ -1,105 +1,249 @@
 ---
+title: Post-Run Recovery
+---
 
-# Post-Run Recovery
+# 🔄 Post-Run Recovery
 
-Post-run recovery begins as soon as a workout ends. Running places stress on the muscles and cardiovascular system, so giving the body time to recover is an important part of preparing for a 5K.
+Post-run recovery helps runners manage fatigue, restore energy, and prepare for future workouts.
 
-Recovery does not need to involve expensive equipment or complicated routines. Simple habits such as cooling down, replacing fluids, eating regular meals, and getting enough sleep can help a runner feel more prepared for future workouts.
+Recovery does not need to involve complicated routines. Simple habits such as cooling down, rehydrating, eating a balanced meal, completing light mobility work, and getting enough sleep can support consistent 5K training.
 
-## Immediately After a Run
+> A workout is only one part of the training process. Recovery helps prepare the body for the next one.
 
-After finishing a hard workout, a runner may benefit from gradually reducing intensity rather than stopping suddenly.
+---
 
-A simple post-run routine might include:
+## 🚶 Start With a Cool-Down
 
-1. Walk or jog easily for a few minutes.
-    
-2. Drink fluids.
-    
-3. Change out of wet or uncomfortable clothing.
-    
-4. Eat a balanced meal or snack when appropriate.
-    
-5. Pay attention to any unusual pain or discomfort.
-    
+After a harder workout, runners may benefit from gradually reducing their effort instead of stopping immediately.
 
-The amount of recovery needed will depend on the workout.
+A simple post-run cool-down might include:
 
-An [[2.weekly-training-plan/easy-run-days|Easy Run Day]] may create relatively little fatigue, while [[3.speed-workouts/interval-training|Interval Training]] or a [[2.weekly-training-plan/long-run-day|Long Run Day]] may require more recovery.
+1. Easy jog — 3 to 5 minutes
+2. Walking — 5 minutes
+3. Slow, controlled breathing — 1 to 2 minutes
 
-## Hydration and Nutrition
+After an easy run, a shorter cool-down may be enough.
 
-Running can increase fluid loss through sweating, especially in warm weather. Replacing fluids after training can help return the body to normal hydration.
+The purpose is simply to transition from training back toward a relaxed state.
 
-Nutrition also plays an important role after more demanding sessions. A balanced meal containing carbohydrates and protein can support recovery and replace energy used during training.
+---
 
-These topics are explained further in:
+## 💧 Rehydrate After Running
 
-- [[6.nutrition-and-hydration/hydration-for-runners|Hydration for Runners]]
-    
-- [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre- and Post-Run Nutrition]]
-    
+Running causes fluid loss through sweat, especially during hot or humid conditions.
 
-> Recovery is not one special technique. It is the combination of daily habits that allow a runner to continue training consistently.
+After training, runners should focus on replacing fluids gradually.
 
-## Active Recovery
+A basic approach is:
 
-Not every recovery day has to involve complete inactivity.
+- Drink water after shorter or easier runs
+- Pay greater attention to fluids after longer or hotter workouts
+- Include electrolytes when sweat losses are high or conditions are demanding
+- Continue drinking fluids throughout the rest of the day
 
-Some runners prefer light movement such as:
+Hydration needs are different for every runner.
 
-- Walking
-    
-- Easy cycling
-    
-- Gentle mobility work
-    
-- Light stretching
-    
-- Very easy jogging
-    
+Weather, workout duration, and individual sweat rate can all affect how much fluid is needed.
 
-The important part is that the activity remains genuinely easy.
+Learn more in [[6.nutrition-and-hydration/hydration-for-runners|Hydration for Runners]].
 
-A recovery session that becomes another difficult workout may increase fatigue instead of reducing it.
+---
 
-Mobility work from [[4.strength-and-mobility/mobility-and-flexibility|Mobility and Flexibility]] can also be included on easier days.
+## 🍎 Post-Run Nutrition
 
-## Sleep and Recovery
+After training, runners should replace energy and provide nutrients that support recovery.
 
-Sleep is one of the most important parts of recovery because it gives the body and mind time to recover from daily activity and training.
+A useful post-run meal or snack can combine carbohydrates and protein.
 
-A runner who repeatedly sleeps poorly may notice increased fatigue, lower motivation, and difficulty completing demanding workouts.
+Examples include:
 
-Sleep is especially important after harder training sessions and is discussed further in [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]].
+- Greek yogurt with fruit and granola
+- Eggs with toast and fruit
+- Chicken with rice and vegetables
+- Turkey sandwich with fruit
+- Oatmeal with milk and banana
+- Chocolate milk with a simple meal or snack
 
-## Paying Attention to Pain
+After a harder workout, runners may want to eat relatively soon instead of waiting several hours.
 
-Some muscle soreness after training can be normal, especially after a new or difficult workout. However, runners should pay attention when discomfort becomes persistent, sharp, or begins affecting normal movement.
+Visit [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre and Post-Run Nutrition]] for more information.
 
-Warning signs may include:
+---
 
-- Pain that becomes progressively worse
-    
-- Swelling
-    
-- Pain that changes running form
-    
-- Difficulty completing normal daily activities
-    
-- Pain that continues during multiple workouts
-    
+## 🤸 Example Post-Run Mobility Routine
 
-Runners experiencing significant or persistent symptoms should consider stopping or modifying training and seeking appropriate professional guidance.
+A short mobility routine can be useful after training, especially when the legs feel tight.
 
-This topic is explored further in [[5.recovery-and-injury-prevention/common-running-injuries|Common Running Injuries]].
+Try:
 
-## Recovery Supports Consistency
+| Exercise | Sets | Time |
+|---|---:|---:|
+| Calf Stretch | 2 | 20–30 sec each side |
+| Quadriceps Stretch | 2 | 20–30 sec each side |
+| Hip Flexor Stretch | 2 | 20–30 sec each side |
+| Hamstring Stretch | 2 | 20–30 sec each side |
+| Glute Stretch | 2 | 20–30 sec each side |
 
-One of the biggest benefits of good recovery habits is the ability to continue training consistently.
+This routine should take approximately 5 to 10 minutes.
 
-A runner who constantly pushes through fatigue may eventually be forced to miss more training than someone who includes recovery from the beginning.
+Stretching should feel gentle and controlled rather than painful.
 
-This is why [[2.weekly-training-plan/rest-and-recovery|Rest and Recovery]] should be planned just like running workouts.
+More mobility ideas can be found in [[4.strength-and-mobility/mobility-and-flexibility|Mobility and Flexibility]].
 
-The goal is not to recover perfectly after every session. The goal is to develop habits that allow the runner to return to training feeling prepared enough to continue progressing toward the 5K race.
+---
+
+## 🦵 Light Recovery Exercises
+
+On some recovery days, runners may also include light strengthening or movement.
+
+A simple routine might include:
+
+1. Glute bridges — 2 sets of 12
+2. Bodyweight squats — 2 sets of 10
+3. Calf raises — 2 sets of 15
+4. Bird dogs — 2 sets of 8 each side
+5. Easy walking — 10 to 20 minutes
+
+The goal is not to create another hard workout.
+
+These movements should feel easy and help maintain comfortable movement.
+
+---
+
+## 😴 Prioritize Sleep
+
+Sleep is one of the most important parts of recovery.
+
+Poor sleep may affect:
+
+- Energy
+- Motivation
+- Workout quality
+- Perceived effort
+- Recovery between sessions
+
+Runners should try to maintain a consistent sleep schedule, especially during periods of harder training.
+
+Learn more in [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]].
+
+---
+
+## 📅 Recovery Depends on the Workout
+
+Different workouts create different recovery demands.
+
+### Easy Run
+
+Recovery may include:
+
+- Short walk
+- Normal hydration
+- Balanced meal
+- Light stretching if desired
+
+### Speed Workout
+
+Recovery may include:
+
+- Longer cool-down
+- Extra attention to hydration
+- Carbohydrate and protein intake
+- Easy training the following day
+
+### Long Run
+
+Recovery may include:
+
+- Walking after the run
+- Replacing fluids
+- Eating a larger balanced meal
+- Gentle mobility
+- Additional rest
+
+Harder workouts generally require more attention to recovery than shorter easy runs.
+
+---
+
+## 🔄 Example 30-Minute Recovery Routine
+
+After a demanding run, a runner could use this simple routine:
+
+**Minutes 0–5**
+
+Easy walking and controlled breathing.
+
+**Minutes 5–10**
+
+Drink fluids and begin cooling down.
+
+**Minutes 10–20**
+
+Complete light mobility:
+
+- Calf stretch
+- Hip flexor stretch
+- Quadriceps stretch
+- Hamstring stretch
+
+**Minutes 20–30**
+
+Eat a recovery snack or begin preparing a balanced meal.
+
+This creates a simple recovery process without requiring special equipment.
+
+---
+
+## ⚠️ Know When More Recovery Is Needed
+
+Some soreness after harder training can be normal.
+
+However, runners should consider additional rest when they experience:
+
+- Heavy fatigue that continues for several days
+- Increasing soreness
+- Declining workout quality
+- Persistent pain
+- Difficulty maintaining normal running form
+- Unusual loss of motivation
+
+Trying to force another difficult workout while excessively fatigued may make training less productive.
+
+Review [[5.recovery-and-injury-prevention/common-running-injuries|Common Running Injuries]] for more information.
+
+---
+
+## 📈 Recovery Supports Progress
+
+Recovery helps runners maintain consistency across an entire training program.
+
+A balanced cycle might look like:
+
+**Hard Workout**
+
+⬇️
+
+**Post-Run Recovery**
+
+⬇️
+
+**Easy Run or Rest**
+
+⬇️
+
+**Next Quality Workout**
+
+Without recovery, fatigue can accumulate and make important workouts harder to complete.
+
+Review [[2.weekly-training-plan/rest-and-recovery|Rest and Recovery]] to see how recovery fits into the weekly schedule.
+
+---
+
+## 🔗 Related Pages
+
+Continue to [[5.recovery-and-injury-prevention/common-running-injuries|Common Running Injuries]].
+
+Explore [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]].
+
+Visit [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre and Post-Run Nutrition]] for fueling ideas.
+
+Return to the [[5.recovery-and-injury-prevention/index|Recovery and Injury Prevention]] section.

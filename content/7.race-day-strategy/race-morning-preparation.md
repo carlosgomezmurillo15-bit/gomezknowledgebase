@@ -1,165 +1,285 @@
 ---
+title: Race Morning Preparation
+---
 
-# Race Morning Preparation
+# 🌅 Race Morning Preparation
 
-Race morning can feel exciting, stressful, and unfamiliar, especially for someone preparing for a first 5K. A simple routine can reduce last-minute stress and help the runner arrive at the starting line feeling organized and confident.
+Race morning should feel organized and familiar.
 
-The most useful race-morning routine is usually one that feels familiar. Instead of trying completely new foods, clothing, or warm-up methods, runners can rely on habits they already practiced during training.
+The goal is to reduce unnecessary stress by preparing food, clothing, equipment, transportation, and the warm-up routine before the race begins.
 
-## Preparing the Night Before
+Most race-day decisions should already have been practiced during training.
 
-Good race-morning preparation often begins the previous evening.
+> Race morning is not the time to experiment. Familiar routines help runners arrive at the starting line ready to compete.
 
-A runner can prepare important items in advance, including:
+---
+
+## 🌙 Prepare the Night Before
+
+A good race morning often begins the night before.
+
+Prepare important items in advance:
 
 - Running shoes
-    
 - Socks
-    
-- Race clothing
-    
+- Race clothes
 - Race bib
-    
+- Safety pins
 - GPS watch
-    
 - Water bottle
-    
-- Identification
-    
-- Any required race documents
-    
+- Identification if required
+- Familiar pre-race food
 
-It is also helpful to review the race location, start time, parking information, and weather forecast.
+A simple checklist can prevent last-minute problems.
 
-Preparing these details early reduces the chance of rushing or forgetting something important.
+### Example Night-Before Checklist
 
-> The less a runner has to figure out on race morning, the easier it is to focus on the race itself.
+1. Charge the running watch.
+2. Attach the race bib if possible.
+3. Lay out clothing and shoes.
+4. Check the weather.
+5. Review parking and race location.
+6. Prepare breakfast.
+7. Set an alarm with extra time.
 
-## Eating Before the Race
+The goal is to reduce decisions on race morning.
 
-Race morning is not the ideal time to experiment with unfamiliar foods.
+---
 
-A runner should usually choose foods that have already worked well before training.
+## ⏰ Example Race-Morning Timeline
 
-Possible options might include:
+For an 8:00 AM race, a runner might use a schedule like this:
 
-- Banana
-    
-- Toast
-    
-- Oatmeal
-    
-- Yogurt
-    
-- Fruit
-    
-- Cereal
-    
+| Time | Activity |
+|---|---|
+| 5:30 AM | Wake up |
+| 5:45 AM | Drink water and eat breakfast |
+| 6:15 AM | Get dressed and review equipment |
+| 6:30 AM | Leave for race location |
+| 7:00 AM | Arrive and check in |
+| 7:20 AM | Bathroom and light walking |
+| 7:30 AM | Begin warm-up |
+| 7:50 AM | Move toward starting area |
+| 8:00 AM | Race begins |
 
-The exact meal will depend on personal preference and how much time is available before the race begins.
+The exact times depend on transportation, parking, packet pickup, and race size.
 
-This connects directly to [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre- and Post-Run Nutrition]].
+Arriving early is generally better than rushing.
 
-The main goal is to arrive at the starting line feeling fueled without feeling overly full or uncomfortable.
+---
 
-## Hydration Before the Start
+## 🍌 Eat a Familiar Breakfast
 
-Hydration should also follow familiar habits.
+Race morning food should be something the runner has already tested before training.
 
-A runner should avoid arriving at the race severely dehydrated, but drinking an extreme amount of water immediately before the start can also cause discomfort.
+A simple breakfast 2 to 3 hours before the race might include:
 
-Regular hydration in the hours leading up to the event is usually more practical than trying to drink everything at once.
+- Oatmeal and banana
+- Toast with eggs
+- Cereal with milk
+- Bagel with a small amount of peanut butter
+- Yogurt with fruit and granola
 
-For more information, visit [[6.nutrition-and-hydration/hydration-for-runners|Hydration for Runners]].
+The meal should provide energy without making the runner feel overly full.
 
-Hot or humid conditions may require additional attention to fluids and race-day effort.
+Avoid trying a completely new food on race morning.
 
-## Arriving Early
+Review [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre and Post-Run Nutrition]] for more examples.
 
-Arriving at the race location early gives the runner time to handle unexpected issues.
+---
 
-This may include:
+## 💧 Hydrate Without Overdoing It
 
-1. Finding parking
-    
-2. Picking up a race bib
-    
-3. Using the restroom
-    
-4. Checking the starting area
-    
-5. Completing a warm-up
-    
-6. Finding the correct starting position
-    
+Hydration should begin before race morning through consistent daily habits.
 
-A runner who arrives only a few minutes before the start may feel rushed and stressed before the race even begins.
+On race morning, runners can drink fluids gradually rather than consuming a large amount immediately before the start.
 
-## Warming Up
+An example approach is:
 
-A warm-up should prepare the body for faster running without creating unnecessary fatigue.
+### 2 to 3 Hours Before
 
-A simple 5K warm-up might include:
+Drink approximately:
 
-- Easy walking
-    
-- Light jogging
-    
-- Leg swings
-    
-- Walking lunges
-    
-- Short controlled strides
-    
+**12 to 20 ounces of fluid**
 
-The amount of warming up depends on the runner's experience and goals.
+### 15 to 30 Minutes Before
 
-A recreational runner may prefer a shorter and simpler routine, while a more competitive runner may use a more structured warm-up.
+Take a small drink if thirsty.
 
-The goal is to feel physically ready when the race begins.
+Avoid drinking so much that the stomach feels uncomfortable.
 
-## Managing Race-Day Nerves
+Visit [[6.nutrition-and-hydration/hydration-for-runners|Hydration for Runners]] for more detailed hydration strategies.
+
+---
+
+## 👟 Check Equipment
+
+Before leaving home, complete a quick equipment check.
+
+### Essential Items
+
+- Running shoes
+- Socks
+- Race clothing
+- Bib
+- Safety pins
+- Watch
+
+### Optional Items
+
+- Hat
+- Sunglasses
+- Light jacket
+- Water bottle
+- Headphones if permitted
+- Small snack
+
+The goal is to avoid discovering a missing item after arriving at the race.
+
+---
+
+## 🔥 Example 15-Minute Warm-Up
+
+A short warm-up can help prepare the body for faster running.
+
+Try:
+
+### Easy Jog
+
+5 to 8 minutes
+
+### Dynamic Movements
+
+- Leg swings — 10 each leg
+- Walking lunges — 8 each leg
+- High knees — 2 sets of 20 seconds
+- Ankle circles — 10 each direction
+
+### Strides
+
+Complete:
+
+**3 to 4 × 15–20 seconds**
+
+Run each stride at a controlled faster effort.
+
+Walk or jog for approximately 45 to 60 seconds between repetitions.
+
+The goal is to feel ready, not tired.
+
+Review [[4.strength-and-mobility/mobility-and-flexibility|Mobility and Flexibility]] for additional warm-up ideas.
+
+---
+
+## 🧠 Manage Pre-Race Nerves
 
 Feeling nervous before a race is normal.
 
-A runner may experience:
+Runners can reduce unnecessary stress by focusing on things they can control.
 
-- Faster heart rate
-    
-- Increased excitement
-    
-- Difficulty sitting still
-    
-- Doubts about performance
-    
-- Strong desire to start too quickly
-    
+For example:
 
-These feelings can become more manageable when the runner focuses on familiar routines.
+- Arrive early
+- Follow the normal routine
+- Avoid comparing yourself constantly with other runners
+- Review the pacing plan
+- Take slow controlled breaths
 
-Instead of thinking about the entire race, the runner can focus on simple tasks such as warming up, finding the starting area, and reviewing the pacing plan.
+A simple breathing routine may be:
 
-Race-day nerves can also cause runners to start too aggressively, which is why having a clear [[7.race-day-strategy/race-day-pacing|Race Day Pacing]] strategy is important.
+1. Inhale slowly for 4 seconds.
+2. Exhale for 4 to 6 seconds.
+3. Repeat for 5 breaths.
 
-## Final Pre-Race Checklist
+The goal is not to eliminate all nervousness.
 
-Before heading to the starting line, a runner can quickly confirm:
+Instead, runners can use that energy to become focused.
 
-- Shoes are tied securely.
-    
-- Race bib is attached.
-    
-- Watch is ready if using one.
-    
-- The warm-up is complete.
-    
-- The starting position is appropriate.
-    
-- The pacing plan is clear.
-    
+---
 
-Once these details are handled, the runner can focus on the race itself.
+## ⏱️ Review the Pacing Plan
 
-Race morning should feel like the final step of a process that began during training. Familiar nutrition, hydration, pacing, and preparation habits can help reduce uncertainty.
+Before entering the starting area, review the race strategy.
 
-The next step is learning how to use that preparation during the final portion of the race, which is covered in [[7.race-day-strategy/finishing-the-5k-strong|Finishing the 5K Strong]].
+For example:
+
+### Mile 1
+
+Controlled.
+
+### Mile 2
+
+Maintain rhythm.
+
+### Mile 3
+
+Increase effort.
+
+### Final 0.1 Mile
+
+Finish strongly.
+
+This simple plan can prevent runners from reacting emotionally to the excitement of the starting line.
+
+Review [[7.race-day-strategy/race-day-pacing|Race Day Pacing]] before race morning.
+
+---
+
+## 🏁 Position Yourself at the Start
+
+Runners should choose a starting position that matches their expected pace.
+
+Starting too far forward may cause faster runners to pass immediately.
+
+Starting too far back may create unnecessary congestion.
+
+A practical approach is to position yourself near runners expecting a similar finish time.
+
+Once the race begins, avoid sprinting simply because everyone around you is moving quickly.
+
+Stay controlled and follow the pacing plan.
+
+---
+
+## ⚠️ Avoid Common Race-Morning Mistakes
+
+Try to avoid:
+
+- Waking up too late
+- Eating unfamiliar foods
+- Drinking excessive amounts immediately before the race
+- Forgetting important equipment
+- Completing an exhausting warm-up
+- Starting the race much faster than planned
+- Making last-minute changes to the pacing strategy
+
+Most of these problems can be avoided through preparation.
+
+---
+
+## ✅ Final 10-Minute Checklist
+
+Before the race begins:
+
+1. Use the bathroom if needed.
+2. Confirm shoes are tied securely.
+3. Check the race bib.
+4. Complete the final warm-up movements.
+5. Take a small drink if thirsty.
+6. Review the first-mile pace.
+7. Move into the appropriate starting area.
+8. Relax the shoulders and breathe.
+
+Then focus on starting under control.
+
+---
+
+## 🔗 Related Pages
+
+Continue to [[7.race-day-strategy/race-day-pacing|Race Day Pacing]] to review how effort should be distributed throughout the race.
+
+Visit [[7.race-day-strategy/finishing-the-5k-strong|Finishing the 5K Strong]] for strategies during the final portion.
+
+Review [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre and Post-Run Nutrition]] for race-morning meal ideas.
+
+Return to the [[7.race-day-strategy/index|Race Day Strategy]] section.

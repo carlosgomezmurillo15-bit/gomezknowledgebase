@@ -1,131 +1,202 @@
 ---
+title: Strength Training for Runners
+---
 
-# Strength Training for Runners
+# 🏋️ Strength Training for Runners
 
-Strength training can be an important part of preparing for a 5K because running performance depends on more than cardiovascular endurance alone. The muscles of the legs, hips, and core all contribute to producing force, maintaining posture, and controlling movement during each stride.
+Strength training can be an important part of 5K preparation because it helps runners build stronger muscles, improve stability, and maintain better movement as fatigue increases.
 
-For runners, strength training does not need to become the main focus of the entire program. Instead, it should support the running plan by improving general strength and helping the body handle the physical demands of repeated training.
+The goal is not to train like a bodybuilder or make every strength session exhausting. Strength workouts should support running performance without leaving the legs too sore for important runs.
 
-## Why Strength Training Matters
+> Strength training should make the running program stronger, not interfere with it.
 
-Running is a repetitive activity. During every step, the body must absorb force and then produce force again to move forward.
+---
 
-Strength training can help develop the muscles involved in this process.
+## 🧠 Why Strength Training Matters
 
-Important areas include:
+Running repeatedly places stress on the legs, hips, calves, and core.
+
+Strength training can help develop the muscles responsible for:
+
+- Producing force during each stride
+- Stabilizing the knees and hips
+- Maintaining posture
+- Supporting the ankles and calves
+- Controlling movement as fatigue increases
+
+Important areas for runners include:
 
 - Quadriceps
-    
 - Hamstrings
-    
 - Glutes
-    
 - Calves
-    
 - Hips
-    
 - Core
-    
-- Upper body
-    
 
-Developing these areas may help runners maintain better control during longer or more demanding sessions.
+Strength training also connects with [[1.running-basics/proper-running-form|Proper Running Form]] because stronger muscles can help runners maintain better control during longer or faster efforts.
 
-This connects directly to [[1.running-basics/proper-running-form|Proper Running Form]], especially when fatigue begins to affect posture and movement.
+---
 
-## Useful Strength Exercises
+## 🦵 Example Lower-Body Strength Workout
 
-A runner's strength program can remain relatively simple.
+A simple runner-focused strength workout can be completed 2 times per week.
 
-Common exercises include:
+| Exercise | Sets | Reps |
+|---|---:|---:|
+| Goblet Squat or Bodyweight Squat | 3 | 8–12 |
+| Romanian Deadlift | 3 | 8–10 |
+| Reverse Lunge | 2 | 8–10 each leg |
+| Step-Up | 2 | 10 each leg |
+| Standing Calf Raise | 3 | 12–15 |
+| Glute Bridge | 2 | 12–15 |
 
-1. Squats
-    
-2. Lunges
-    
-3. Split squats
-    
-4. Romanian deadlifts
-    
-5. Step-ups
-    
-6. Calf raises
-    
-7. Glute bridges
-    
-8. Push-ups
-    
-9. Rows
-    
+Rest approximately 60 to 90 seconds between most sets.
 
-These exercises can be performed with body weight, dumbbells, resistance bands, or other equipment depending on what is available.
+The weight should be challenging enough to require effort while still allowing good technique.
 
-### Lower-Body Strength
+The goal is controlled movement rather than lifting the heaviest possible weight.
 
-Lower-body exercises are especially relevant because running places repeated demands on the legs.
+---
 
-Squats and split squats can develop the quadriceps and glutes, while Romanian deadlifts focus more on the hamstrings and posterior chain.
+## 🦶 Lower-Leg Strength
 
-Calf raises can strengthen the lower leg muscles that contribute to running and support repeated contact with the ground.
+The calves, ankles, and muscles around the lower leg experience repeated stress during running.
 
-## Strength Training Should Support Running
+A short lower-leg routine can include:
 
-One of the most important parts of combining strength training and running is managing fatigue.
+1. Standing calf raises — 3 sets of 12 to 15
+2. Bent-knee calf raises — 2 sets of 12 to 15
+3. Tibialis raises — 2 sets of 15 to 20
+4. Single-leg balance — 2 sets of 30 seconds per leg
 
-A difficult leg workout can create soreness that affects the quality of a future run. Because of this, strength sessions should be organized around the [[2.weekly-training-plan/index|Weekly Training Plan]].
+This routine can be completed after a regular strength workout or after an easy running day.
 
-For example, a runner may want to avoid completing an extremely demanding lower-body workout immediately before [[3.speed-workouts/interval-training|Interval Training]] or a [[2.weekly-training-plan/long-run-day|Long Run Day]].
+Lower-leg strength can also complement the mobility exercises discussed in [[4.strength-and-mobility/mobility-and-flexibility|Mobility and Flexibility]].
 
-> The goal of strength training for a runner is to support running performance, not constantly interfere with important running sessions.
+---
 
-## How Often Should Runners Strength Train?
+## 🧱 Core Training
 
-The amount of strength training depends on experience, goals, and recovery ability.
+Core strength helps runners maintain stability while the arms and legs move repeatedly.
 
-Some runners may benefit from one or two strength sessions each week. More experienced athletes may be able to handle additional training, while beginners may need more time to adapt.
+A simple core circuit may include:
 
-A simple weekly approach could include:
+| Exercise | Sets | Reps or Time |
+|---|---:|---:|
+| Plank | 2 | 30–45 sec |
+| Side Plank | 2 | 20–30 sec each side |
+| Dead Bug | 2 | 8–10 each side |
+| Bird Dog | 2 | 8–10 each side |
 
-- One full-body strength session
-    
-- One shorter supplemental strength session
-    
-- Running as the primary training focus
-    
+Core exercises should be performed slowly and with control.
 
-The exact schedule should be adjusted based on how the runner feels.
+Visit [[4.strength-and-mobility/core-training-for-running|Core Training for Running]] for more detailed information.
 
-## Progressing Strength Training
+---
 
-Progress does not require increasing weight every workout.
+## 📅 Where Strength Training Fits
 
-A runner can improve by:
+Strength sessions should be placed where they do not interfere with important running workouts.
 
-- Using better technique
-    
-- Completing more controlled repetitions
-    
-- Adding a small amount of resistance
-    
-- Increasing the number of repetitions
-    
-- Improving stability
-    
-- Gradually using more difficult variations
-    
+One example schedule is:
 
-Progress should occur slowly enough that the runner can continue performing quality running workouts.
+| Day | Training |
+|---|---|
+| Monday | Rest |
+| Tuesday | Easy Run + Strength |
+| Wednesday | Speed Workout |
+| Thursday | Easy Run |
+| Friday | Strength Training |
+| Saturday | Long Run |
+| Sunday | Easy Run or Recovery |
 
-## Strength Training and Injury Prevention
+Another option is combining strength training with easy running days.
 
-Strength training is sometimes described as a way to prevent every running injury, but no single exercise can guarantee that a runner will never become injured.
+This can help keep hard days together and leave more complete recovery days available.
 
-However, developing overall strength may help the body become better prepared for the demands of running.
+Review the [[2.weekly-training-plan/training-overview|Training Overview]] for the full weekly structure.
 
-Strength work should be combined with appropriate [[5.recovery-and-injury-prevention/index|Recovery and Injury Prevention]] habits and gradual training progression.
+---
 
-Runners should also pay attention to mobility and movement quality. This is explored further in [[4.strength-and-mobility/mobility-and-flexibility|Mobility and Flexibility]].
+## ⚡ Avoid Training to Failure
 
-Another important part of strength development is the trunk and core, which is covered in [[4.strength-and-mobility/core-training-for-running|Core Training for Running]].
+Runners generally do not need to complete every strength exercise until they cannot perform another repetition.
 
-Strength training is most useful when it becomes one part of a balanced system that includes running, recovery, mobility, and consistent weekly planning.
+Constantly training to failure may create unnecessary soreness and fatigue.
+
+Instead, a runner might finish most sets feeling like they could still complete approximately 1 to 3 additional repetitions with good form.
+
+This allows the strength session to remain productive without completely exhausting the legs.
+
+---
+
+## 📈 How to Progress
+
+Strength training should gradually become more challenging.
+
+A simple progression might look like this:
+
+**Week 1:** 3 sets of 8 repetitions
+
+**Week 2:** 3 sets of 10 repetitions
+
+**Week 3:** 3 sets of 12 repetitions
+
+**Week 4:** Increase the weight slightly and return to 8 repetitions
+
+This approach allows the runner to gradually improve without making large changes all at once.
+
+Other progression methods include:
+
+- Adding a small amount of weight
+- Improving exercise technique
+- Adding one set
+- Increasing movement control
+- Progressing from two-leg to single-leg variations
+
+---
+
+## ⚖️ Manage Fatigue
+
+Strength training should not consistently leave runners unable to complete their running workouts.
+
+Signs that strength volume may be too high include:
+
+- Constant leg soreness
+- Reduced speed during workouts
+- Heavy legs during easy runs
+- Difficulty completing the long run
+- Declining training quality
+
+When this happens, runners may need to reduce sets, repetitions, weight, or training frequency.
+
+Recovery habits discussed in [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]] can also help manage fatigue.
+
+---
+
+## 🏁 Strength Training and 5K Performance
+
+Strength training works best when combined with the rest of the training plan.
+
+A complete 5K program may include:
+
+- [[2.weekly-training-plan/easy-run-days|Easy Run Days]]
+- [[2.weekly-training-plan/speed-workouts|Speed Workouts]]
+- [[2.weekly-training-plan/long-run-day|Long Run Day]]
+- Strength training
+- Mobility work
+- Recovery
+
+The purpose of strength training is to support the runner's ability to train consistently and maintain strong movement throughout the race.
+
+---
+
+## 🔗 Related Pages
+
+Continue to [[4.strength-and-mobility/mobility-and-flexibility|Mobility and Flexibility]].
+
+Explore [[4.strength-and-mobility/core-training-for-running|Core Training for Running]].
+
+Visit [[5.recovery-and-injury-prevention/common-running-injuries|Common Running Injuries]] for information about common problem areas runners may experience.
+
+Return to the [[4.strength-and-mobility/index|Strength and Mobility]] section.
