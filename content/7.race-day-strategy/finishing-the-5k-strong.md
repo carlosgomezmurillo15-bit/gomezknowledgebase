@@ -1,6 +1,5 @@
 ---
 title: Finishing the 5K Strong
-date: 2026-07-22
 ---
 
 # 🚀 Finishing the 5K Strong
