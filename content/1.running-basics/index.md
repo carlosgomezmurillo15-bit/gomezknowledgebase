@@ -1,5 +1,5 @@
 ---
-title: Race Day Strategy
+title: Running Basics
 ---
 
 # 🏃 5K Race Preparation Knowledge Base
