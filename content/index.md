@@ -1,8 +1,9 @@
 ---
-title: 5k race preparation
-About: This site provides a simple one week training plan designed to help runners improve their endurance, speed, and overall race performance while preparing for a successful 5K
+title: 5K Race Preparation Knowledge Base
+date: 2026-07-23
 ---
 
+# 🏃 5K Race Preparation Knowledge Base
 # 🏃 5K Race Preparation Knowledge Base
 
 Welcome to my **5K Race Preparation Knowledge Base**, a complete resource designed to help runners understand the different parts of preparing for a successful 5K.

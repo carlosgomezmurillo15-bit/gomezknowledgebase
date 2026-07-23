@@ -1,7 +1,9 @@
 ---
 title: Running Basics
+date: 2026-07-22
 ---
 
+# 🏃 Running Basics
 # 🏃 5K Race Preparation Knowledge Base
 
 Welcome to my **5K Race Preparation Knowledge Base**, a connected resource designed to explain the major parts of preparing for a successful 5K race.
