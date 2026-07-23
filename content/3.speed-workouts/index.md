@@ -126,3 +126,8 @@ Finally, explore [[3.speed-workouts/hill-repeats|Hill Repeats]].
 
 ---
 
+---
+
+## 🏠 Return to Main Page
+
+[← Back to the 5K Race Preparation Knowledge Base](../index.md)

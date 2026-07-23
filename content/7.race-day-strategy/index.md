@@ -228,3 +228,9 @@ Start with [[7.race-day-strategy/race-morning-preparation|Race Morning Preparati
 Then review [[7.race-day-strategy/race-day-pacing|Race Day Pacing]].
 
 Finally, explore [[7.race-day-strategy/finishing-the-5k-strong|Finishing the 5K Strong]].
+
+---
+
+## 🏠 Return to Main Page
+
+[← Back to the 5K Race Preparation Knowledge Base](../index.md)

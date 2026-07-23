@@ -145,3 +145,9 @@ Start with [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recover
 Then explore [[5.recovery-and-injury-prevention/common-running-injuries|Common Running Injuries]].
 
 Finally, review [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]].
+
+---
+
+## 🏠 Return to Main Page
+
+[← Back to the 5K Race Preparation Knowledge Base](../index.md)

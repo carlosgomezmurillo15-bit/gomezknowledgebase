@@ -218,3 +218,9 @@ Start with [[6.nutrition-and-hydration/fueling-for-running|Fueling for Running]]
 Then continue to [[6.nutrition-and-hydration/hydration-for-runners|Hydration for Runners]].
 
 Finally, review [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre and Post-Run Nutrition]].
+
+---
+
+## 🏠 Return to Main Page
+
+[← Back to the 5K Race Preparation Knowledge Base](../index.md)

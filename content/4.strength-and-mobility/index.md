@@ -148,3 +148,8 @@ Finally, explore [[4.strength-and-mobility/core-training-for-running|Core Traini
 
 ---
 
+---
+
+## 🏠 Return to Main Page
+
+[← Back to the 5K Race Preparation Knowledge Base](../index.md)

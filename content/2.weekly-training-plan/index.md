@@ -205,3 +205,8 @@ Recovery habits are discussed in [[5.recovery-and-injury-prevention/index|Recove
 All of these training components eventually support the strategies discussed in [[7.race-day-strategy/index|Race Day Strategy]].
 
 ---
+---
+
+## 🏠 Return to Main Page
+
+[← Back to the 5K Race Preparation Knowledge Base](../index.md)

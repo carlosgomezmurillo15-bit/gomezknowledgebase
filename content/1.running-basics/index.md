@@ -116,3 +116,8 @@ Begin with [[1.running-basics/index|Running Basics]] to learn the fundamentals.
 
 Then continue to the [[2.weekly-training-plan/index|Weekly Training Plan]] to see how a complete training week can be organized.
 
+---
+
+## 🏠 Return to Main Page
+
+[← Back to the 5K Race Preparation Knowledge Base](../index.md)

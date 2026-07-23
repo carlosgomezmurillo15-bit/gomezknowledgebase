@@ -4,7 +4,6 @@ date: 2026-07-23
 ---
 
 # 🏃 5K Race Preparation Knowledge Base
-# 🏃 5K Race Preparation Knowledge Base
 
 Welcome to my **5K Race Preparation Knowledge Base**, a complete resource designed to help runners understand the different parts of preparing for a successful 5K.
 
