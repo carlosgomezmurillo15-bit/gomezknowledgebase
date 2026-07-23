@@ -1,5 +1,5 @@
 ---
-title: Weekly Training Plan
+title: 2.Weekly Training Plan
 ---
 
 # 📅 Weekly Training Plan
