@@ -255,7 +255,11 @@ Visit [[1.running-basics/understanding-running-pace|Understanding Running Pace]]
 Then continue to the [[2.weekly-training-plan/index|Weekly Training Plan]] to see how endurance-focused workouts can fit into a complete training schedule.
 
 ---
+## 🔗 Additional Resource
 
+The CDC provides additional information about recommended aerobic and muscle-strengthening activity for adults:
+
+[CDC — Physical Activity Guidelines for Adults](https://www.cdc.gov/physical-activity-basics/guidelines/adults.html)
 ## 🏃 Return to Running Basics
 
 Return to the [[1.running-basics/index|Running Basics]] section.

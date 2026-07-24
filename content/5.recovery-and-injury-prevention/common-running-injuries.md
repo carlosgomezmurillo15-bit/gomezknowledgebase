@@ -166,7 +166,14 @@ A simple post-workout routine might include:
 Learn more in [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]].
 
 ---
+## 🔗 Learn More About Common Running Injuries
 
+Additional information about common running-related conditions is available from the American Academy of Orthopaedic Surgeons:
+
+- [AAOS — Shin Splints](https://orthoinfo.aaos.org/en/diseases--conditions/shin-splints/)
+- [AAOS — Patellofemoral Pain Syndrome](https://orthoinfo.org/diseases--conditions/patellofemoral-pain-syndrome/)
+- [AAOS — Achilles Tendinitis](https://orthoinfo.aaos.org/en/diseases--conditions/achilles-tendinitis/)
+- [AAOS — Plantar Fasciitis and Bone Spurs](https://orthoinfo.aaos.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs)
 ## 🔗 Related Pages
 
 Continue to [[5.recovery-and-injury-prevention/sleep-and-performance|Sleep and Performance]].

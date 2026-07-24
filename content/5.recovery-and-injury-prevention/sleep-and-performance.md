@@ -240,7 +240,11 @@ Instead, they can focus on:
 Race-morning planning is covered in [[7.race-day-strategy/race-morning-preparation|Race Morning Preparation]].
 
 ---
+## 🔗 Additional Resource
 
+For additional information about healthy sleep:
+
+[CDC — About Sleep](https://www.cdc.gov/sleep/about/index.html)
 ## 🔗 Related Pages
 
 Review [[5.recovery-and-injury-prevention/post-run-recovery|Post-Run Recovery]] for a complete recovery routine.

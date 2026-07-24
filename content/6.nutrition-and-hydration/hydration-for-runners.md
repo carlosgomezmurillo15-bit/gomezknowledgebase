@@ -233,7 +233,11 @@ Practice the same general approach during training.
 Learn more in [[7.race-day-strategy/race-morning-preparation|Race Morning Preparation]].
 
 ---
+## 🔗 Additional Hydration and Heat Resource
 
+Running in hot weather can require additional planning and caution.
+
+[CDC — Heat and Athletes](https://www.cdc.gov/heat-health/risk-factors/heat-and-athletes.html)
 ## 🔗 Related Pages
 
 Continue to [[6.nutrition-and-hydration/pre-and-post-run-nutrition|Pre and Post-Run Nutrition]] for meal and snack timing.

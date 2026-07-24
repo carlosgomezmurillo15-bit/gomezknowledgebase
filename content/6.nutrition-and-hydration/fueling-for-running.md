@@ -266,7 +266,11 @@ Practicing nutrition beforehand can make the race-morning routine more predictab
 Learn more in [[7.race-day-strategy/race-morning-preparation|Race Morning Preparation]].
 
 ---
+## 🔗 Additional Nutrition Resource
 
+For general information about building balanced eating habits:
+
+[USDA — MyPlate](https://www.myplate.gov/)
 ## 🔗 Related Pages
 
 Continue to [[6.nutrition-and-hydration/hydration-for-runners|Hydration for Runners]] for practical hydration strategies.

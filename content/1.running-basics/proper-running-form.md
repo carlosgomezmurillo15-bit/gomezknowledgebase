@@ -189,6 +189,11 @@ For additional physical preparation, visit [[4.strength-and-mobility/index|Stren
 
 ---
 
+## 🔗 Additional Resource
+
+For additional information about beginning and maintaining a safe running program:
+
+[American Academy of Orthopaedic Surgeons — Tips for a Safe Running Program](https://orthoinfo.aaos.org/en/staying-healthy/tips-for-a-safe-running-program/)
 ## 🏃 Return to Running Basics
 
 Return to the [[1.running-basics/index|Running Basics]] section.

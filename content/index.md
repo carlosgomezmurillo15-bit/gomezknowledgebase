@@ -267,5 +267,11 @@ Preparing for race day?
 Go directly to [[7.race-day-strategy/index|Race Day Strategy]].
 
 ---
+## 🔗 Additional Running and Fitness Resources
+
+For additional evidence-based information about physical activity and exercise, visit:
+
+- [Physical Activity Guidelines for Americans](https://odphp.health.gov/our-work/nutrition-physical-activity/physical-activity-guidelines)
+- [CDC Physical Activity Basics](https://www.cdc.gov/physical-activity-basics/about/index.html)
 
 > **Consistency beats perfection. Build the foundation, train with purpose, recover intelligently, and trust the process.**
