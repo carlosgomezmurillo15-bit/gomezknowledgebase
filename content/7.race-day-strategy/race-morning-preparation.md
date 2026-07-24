@@ -4,6 +4,9 @@ title: Race Morning Preparation
 
 # 🌅 Race Morning Preparation
 
+![[race-morning-gear.jpg]]
+
+*Preparing race equipment the night before can reduce unnecessary stress on race morning.*
 Race morning should feel organized and familiar.
 
 The goal is to reduce unnecessary stress by preparing food, clothing, equipment, transportation, and the warm-up routine before the race begins.

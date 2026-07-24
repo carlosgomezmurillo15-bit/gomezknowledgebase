@@ -29,7 +29,9 @@ Explore practical hydration strategies for daily life, training, hot weather, an
 Learn what runners may eat before training and how post-run meals and snacks can support recovery.
 
 ---
+![[runner-nutrition.jpg]]
 
+*Balanced meals can help support the energy demands of consistent training.*
 ## 🍽️ Build Balanced Meals
 
 A balanced meal for a runner may include:

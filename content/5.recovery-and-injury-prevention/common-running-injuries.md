@@ -12,7 +12,9 @@ Some soreness after training can be normal, but persistent or worsening pain sho
 > Injury prevention begins with gradual progression, recovery, and paying attention to changes in how the body feels.
 
 ---
+![[running-injury-prevention.jpg]]
 
+*Runners should pay attention to persistent pain and changes in normal movement.*
 ## 🦴 Shin Splints
 
 Shin splints generally involve pain along the shin and are commonly associated with repetitive running activity.

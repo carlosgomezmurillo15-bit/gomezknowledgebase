@@ -33,7 +33,9 @@ Understanding these differences helps runners organize their training more effec
 The [[2.weekly-training-plan/index|Weekly Training Plan]] section explains how different types of workouts can fit together during the week.
 
 ---
+![[running-pace-watch.jpg]]
 
+*GPS watches can help runners monitor pace, distance, and training intensity.*
 ## 🟢 Easy Pace
 
 Easy running should feel comfortable and controlled.

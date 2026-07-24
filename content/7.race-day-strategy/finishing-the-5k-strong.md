@@ -10,8 +10,11 @@ A strong finish does not usually mean sprinting from too far away. Instead, runn
 
 > A strong finish is often earned by the decisions made during the first two miles.
 
----
 
+---
+![[5k-finish-line.jpg]]
+
+*A controlled early race can leave runners with enough energy to increase effort near the finish.*
 ## 🧠 Why the Final Mile Feels Difficult
 
 By the third mile, fatigue has accumulated and maintaining pace may require much more effort.

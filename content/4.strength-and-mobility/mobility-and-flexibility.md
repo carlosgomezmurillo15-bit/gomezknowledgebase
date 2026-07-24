@@ -11,7 +11,9 @@ Mobility focuses on moving joints through a useful range of motion with control,
 > Mobility work should prepare the body to move well without becoming another exhausting workout.
 
 ---
+![[dynamic-mobility.jpg]]
 
+*Dynamic mobility exercises can be incorporated into a runner's pre-workout warm-up.*
 ## 🧠 Why Mobility Matters for Runners
 
 Running repeatedly uses similar movement patterns.

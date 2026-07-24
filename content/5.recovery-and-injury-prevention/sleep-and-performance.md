@@ -11,7 +11,9 @@ Running, strength training, and speed workouts all create physical and mental fa
 > Training provides the stimulus for improvement, while recovery habits such as sleep help support the ability to train consistently.
 
 ---
+![[sleep-and-recovery.jpg]]
 
+*Consistent sleep is an important part of recovery between demanding training sessions.*
 ## 🧠 Why Sleep Matters for Runners
 
 Poor sleep can affect how a runner feels during training.

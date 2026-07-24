@@ -13,7 +13,9 @@ The goal on race day is not to suddenly become fitter. The goal is to use the fi
 > A good race strategy helps the runner stay controlled early, compete strongly in the middle, and finish with confidence.
 
 ---
+![[5k-race-start.jpg]]
 
+*Race day brings together the endurance, speed, pacing, and preparation developed during training.*
 ## 📚 Pages in This Section
 
 ### ⏱️ [[7.race-day-strategy/race-day-pacing|Race Day Pacing]]

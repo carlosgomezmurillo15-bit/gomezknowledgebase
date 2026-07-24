@@ -13,7 +13,9 @@ Because running uphill requires more force than running on flat ground, hill tra
 ---
 
 ## 🧠 How Hill Repeats Work
+![[hill-repeat-training.jpg]]
 
+*Hill repeats combine higher-intensity running with the added resistance of an incline.*
 A basic hill workout may include:
 
 1. Easy warm-up

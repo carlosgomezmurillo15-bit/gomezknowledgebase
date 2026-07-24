@@ -11,7 +11,9 @@ There is no single perfect running style for every person. Differences in height
 > Good running form should feel natural, relaxed, and repeatable rather than forced.
 
 ---
+![[running-form.jpg]]
 
+*Developing efficient and controlled movement is one of the foundations of distance running.*
 ## 🧍 Maintain an Upright Posture
 
 A runner should generally maintain a tall and relaxed posture.
@@ -96,6 +98,7 @@ Signs that a runner may be overstriding can include:
 - Difficulty maintaining a smooth rhythm
 
 Improving awareness of pace through [[1.running-basics/understanding-running-pace|Understanding Running Pace]] can also help runners avoid forcing their stride when trying to run faster.
+
 
 ---
 

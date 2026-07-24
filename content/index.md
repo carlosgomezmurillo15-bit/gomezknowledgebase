@@ -19,6 +19,10 @@ Rather than focusing on one workout or one training method, this knowledge base 
 
 The purpose of this knowledge base is to provide an organized guide for someone preparing for a 5K race.
 
+![[5k-homepage-runner 1.jpg]]
+
+*Building speed, endurance, and confidence through structured 5K training.*
+
 A 5K is 3.1 miles, but successfully preparing for the distance requires more than simply running three miles repeatedly.
 
 A complete training program should help a runner develop:

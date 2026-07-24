@@ -13,7 +13,9 @@ These workouts should be challenging, but they should still be controlled and ba
 > Speed workouts are most effective when they are used as part of a complete training plan.
 
 ---
+![[interval-track-workout.jpg]]
 
+*Track intervals allow runners to practice faster efforts with structured recovery periods.*
 ## 📚 Pages in This Section
 
 ### 🔁 [[3.speed-workouts/interval-training|Interval Training]]

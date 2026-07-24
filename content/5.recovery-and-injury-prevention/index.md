@@ -29,7 +29,9 @@ Explore common problems runners may experience and why gradual training progress
 Learn how sleep can influence energy, recovery, training quality, and overall running performance.
 
 ---
+![[post-run-recovery.jpg]]
 
+*Recovery habits help runners prepare for future training sessions.*
 ## 🧠 Why Recovery Matters
 
 Training places stress on the body.

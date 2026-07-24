@@ -13,7 +13,9 @@ The goal is not to follow one exact amount for every runner. Instead, runners sh
 > Good hydration begins before the workout, continues during demanding sessions when needed, and remains important after the run is finished.
 
 ---
+![[runner-hydration.jpg]]
 
+*Hydration needs can change based on workout length, weather, and individual sweat losses.*
 ## 🚰 Hydration Throughout the Day
 
 Runners should not wait until immediately before a workout to begin drinking fluids.

@@ -31,7 +31,9 @@ Learn how core strength can support posture, stability, and overall body control
 ---
 
 ## 🧠 Why Strength Training Matters
+![[runner-strength-training.jpg]]
 
+*Strength training can complement running by developing the muscles used during repeated training.*
 Running repeatedly places demands on the lower body.
 
 Strength training can help runners develop stronger muscles in areas such as:
