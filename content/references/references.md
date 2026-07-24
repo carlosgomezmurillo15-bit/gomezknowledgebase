@@ -119,6 +119,8 @@ Freepik. (n.d.). [*Runner crossing the finish line with a jubilant expression*](
 
 ---
 
-# 🔗 Return to the Knowledge Base
+---
+
+## 🏠 Return to the Main Page
 
 [← Return to the 5K Race Preparation Knowledge Base](index.md)

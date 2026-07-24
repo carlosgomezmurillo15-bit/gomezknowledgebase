@@ -274,4 +274,8 @@ For additional evidence-based information about physical activity and exercise, 
 - [Physical Activity Guidelines for Americans](https://odphp.health.gov/our-work/nutrition-physical-activity/physical-activity-guidelines)
 - [CDC Physical Activity Basics](https://www.cdc.gov/physical-activity-basics/about/index.html)
 
-> **Consistency beats perfection. Build the foundation, train with purpose, recover intelligently, and trust the process.**
+---
+
+# 📚 References and Image Credits
+
+All informational sources and image credits used throughout this project are documented on the [[references|References and Image Credits]] page.
