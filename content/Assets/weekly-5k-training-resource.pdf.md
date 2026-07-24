@@ -1,1 +1,0 @@
-![[weekly-5k-training-resource.pdf]]
